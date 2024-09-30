@@ -1,0 +1,1024 @@
+﻿body
+{
+    padding: 0px;
+    margin: 0px;
+    background-color: #FFFFFF;
+    font-family: Georgia;
+}
+.hypRight
+{
+    float: right;
+}
+
+a
+{
+    color: #FF6600;
+}
+
+a:hover
+{
+    color: #000000;
+}
+
+.clearfloat {
+	clear:both;
+	height:0;
+	font-size: 1px;
+	line-height: 0px;
+} 
+
+#header
+{
+    width: 990px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-bottom: 20px;
+}
+
+.tba-hr
+{
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-top-color: #CCCCCC;
+    border-bottom-style: none;
+}
+
+#content-wrapper h1
+{
+    padding: 0px;
+    margin: 0px;
+    display: inline;
+}
+
+
+
+.main-logo
+{
+    float: left;
+    margin-top: 70px;
+}
+
+
+.main-content-wrapper
+{
+    float: left;
+    margin-top: 70px;
+}
+
+#header .main-nav
+{
+    width: 500px;
+    height: 30px;
+    float: right;
+    margin-top: 85px;
+    
+}
+
+#header .main-nav ul
+{
+    padding: 0px;
+    margin: 0px;
+    list-style-type: none;
+    float: left;
+}
+
+#header .main-nav li
+{
+    float: left;
+    margin-top: 0px;
+    
+}
+
+#header .main-nav li a
+{
+    padding: 5px 10px 10px 5px;
+    float: left;
+    text-decoration: none;
+    color: #333333;
+    font-size: 1.1em;
+    text-align: center;
+    font-weight: normal;
+    text-transform: uppercase;
+    font-family: Georgia;
+    letter-spacing: -.1em;
+    margin-right: 5px;
+    word-spacing: -.2em;
+}
+
+#header .main-nav li a:hover
+{
+    color: #FFFFFF;
+    background-color: #333333;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+
+#header .main-nav li.active a
+{
+    color: #FFFFFF;
+    background-color: #333333;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+
+/*CMS Navigation styles */
+
+#header .cms-nav
+{
+    width: 550px;
+    height: 30px;
+    float: right;
+    margin-top: 85px;
+    
+}
+
+#header .cms-nav ul
+{
+    padding: 0px;
+    margin: 0px;
+    list-style-type: none;
+    float:right;
+}
+
+#header .cms-nav li
+{
+    float: left;
+    margin-top: 0px;
+    
+}
+
+#header .cms-nav li a
+{
+    padding: 5px 8px 8px 5px;
+    float: left;
+    text-decoration: none;
+    color: #333333;
+    font-size: 0.9em;
+    text-align: center;
+    font-weight: normal;
+    text-transform: uppercase;
+    font-family: Georgia;
+    letter-spacing: -.1em;
+    margin-right: 4px;
+   
+}
+
+#header .cms-nav li a:hover
+{
+    color: #FFFFFF;
+    background-color: #333333;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+
+#header .cms-nav li.active a
+{
+    color: #FFFFFF;
+    background-color: #333333;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+
+#cms-content-wrapper
+{
+    margin: 20px auto 20px auto;
+    width: 990px;
+    min-height: 500px;
+}
+
+#content-wrapper
+{
+    margin: 20px auto 20px auto;
+    width: 990px;
+}
+
+#content-wrapper p
+{
+    font-size: 1.2em;
+}
+
+#content-wrapper em
+{
+    font-style: normal;
+    font-size: 1.4em;
+    font-weight: bold;
+}
+
+#content-wrapper .rhs-col
+{
+    float: right;
+    width: 630px;
+    padding-bottom: 20px;
+   
+}
+
+#content-wrapper .rhs-col .featured
+{
+    padding: 15px 10px 35px 10px;
+    width: 610px;
+    background-image: url('gray-grad-bg.jpg');
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    background-repeat: repeat-x;
+    background-color: #CCCCCC;
+    margin-right: 0px;
+}
+#content-wrapper .rhs-col .featured h2
+{
+    font-weight: bold;
+    color: #FFFFFF;
+    font-size: 2em;
+    display: inline;
+}
+
+#content-wrapper .rhs-col .featured h3
+{
+    padding: 0px;
+    margin: 0px;
+    font-weight: bold;
+    color: #FFFFFF;
+    font-size: 1.5em;
+}
+
+#content-wrapper .rhs-col .featured h4
+{
+    padding: 0px;
+    margin: 0px 0px 5px 0px;
+    font-weight: bold;
+    color: #333333;
+    font-size: 1em;
+}
+
+#content-wrapper .rhs-col .featured h5
+{
+    padding: 0px;
+    margin: 0px;
+    font-weight: bold;
+    color: #FFFFFF;
+    font-size: 1.5em;
+}
+
+#content-wrapper .rhs-col .featured .control
+{
+    float: right;
+    width: 140px;
+    height: 20px;
+}
+
+.swicher {}
+
+.swicher ul
+{
+    float: left;
+    list-style-type: none;
+}
+
+.swicher li
+{
+    float: left;
+     list-style-type: none;
+}
+
+.swicher a
+{
+    background-color: #FFFFFF;
+    border: 2px solid #FF9900;
+    width: 17px;
+    height: 17px;
+    margin-right: 5px;
+    display: table;
+}
+
+.swicher a:hover
+{
+    background-color: #FFFFFF;
+    border: 2px solid #FF9900;
+}
+
+
+
+.image-wrapper-right
+{
+    float: right;
+    padding: 5px;
+    margin-left: 10px;
+    background-color: #CCCCCC;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+#featured-image-wrapper
+{
+    text-align: center;
+}
+
+#featured-image-wrapper img
+{
+    padding: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    background-color: #FFFFFF;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+#content-wrapper .lhs-col
+{
+    width: 330px;
+    float: left;
+}
+
+#content-wrapper .lhs-col .panel
+{
+    padding: 10px;
+    background-color: #999999;
+    color: #FFFFFF;
+    line-height: 22px;
+}
+
+#content-wrapper .lhs-col h2
+{
+    margin: 0px 0px 20px 0px;
+    padding: 15px;
+    background-color: #333333;
+    text-align: right;
+    color: #FFFFFF;
+}
+   
+
+
+#footer-wrapper
+{
+    background-image: url(footer-bg.gif);
+    position: relative;
+    height: 148px;
+    padding-top: 25px;
+    padding-bottom: 15px;
+    font-family: Georgia;
+    margin-bottom: 20px;
+}
+
+#footer-menu
+{
+    width: 990px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+
+#footer-menu h2
+{
+    color: #666666;
+    font-size: 1.2em;
+}
+
+
+#footer-menu ul
+{
+    list-style-type: none;
+   
+    text-align: center;
+    width: 680px;
+    margin-right: auto;
+    margin-left: auto;
+   
+}
+
+#footer-menu li
+{
+    float: left;
+    margin-top: 0px;
+}
+
+#footer-menu li a
+{
+    padding: 5px 10px 10px 5px;
+    float: left;
+    text-decoration: none;
+    color: #FF9900;
+    font-size: 1em;
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-family: Georgia;
+    letter-spacing: -.1em;
+    margin-right: 0px;
+    word-spacing: -.2em;
+}
+#footer-menu li a:hover
+{
+    color: #666666;
+}
+
+/***********************************************/
+/* CSS Form						                  */
+/***********************************************/
+
+
+.cssform p
+{
+	width: 720px;
+	clear: left;
+	margin: 0;
+	padding: 5px 0 4px 40px; /*width of left column containing the label elements*/
+	height: 1%;
+}
+
+.cssform label
+{
+	
+	font-weight: bold;
+	float: left;
+	text-align: right;
+	margin-left: -10px; /*width of left column*/
+	width: 160px;
+	margin-right: 6px;
+}
+
+.cssform .formsmall
+{
+	font-size: x-small;
+	display: block;
+}
+
+
+.cssform .captcha
+{
+	
+}
+
+.cssform .captcha p
+{
+	float: left;
+
+}
+
+.cssform .captcha img
+{
+	border: thin solid #66FFCC;
+	float: right;
+	margin-right: 200px;
+}
+
+.cssform .captcha label
+{
+	
+	float: left;
+	
+	
+}
+
+.cssform .captcha input[type="text"]
+{
+	float: right;
+	margin-right: 234px;
+}
+
+.cssform input[type="text"]
+{
+	/*width of text boxes. IE6 does not understand this attribute*/
+	border-right: dimgray 1px solid;
+	border-top: #dddddd 1px solid;
+	border-left: #dddddd 1px solid;
+	border-bottom: #dddddd 1px solid;
+	padding-right: 2px;
+	padding-left: 2px;
+	padding-bottom: 3px;
+	padding-top: 3px;
+	background-image: url(formTFBg.html);
+	background-repeat: repeat-x;
+	background-color: #FFFFFF;
+	border-right: #dddddd 1px solid;
+	border-color: #666666;
+}
+
+
+
+.cssform input[type="password"]
+{
+	/*width of text boxes. IE6 does not understand this attribute*/
+	border-right: dimgray 1px solid;
+	border-top: #dddddd 1px solid;
+	border-left: #dddddd 1px solid;
+	border-bottom: #dddddd 1px solid;
+	padding-right: 2px;
+	padding-left: 2px;
+	padding-bottom: 3px;
+	padding-top: 3px;
+	background-image: url(formTFBg.html);
+	background-repeat: repeat-x;
+	background-color: #FFFFFF;
+	border-right: #333333 1px solid;
+	border-color: #666666;
+}
+
+.cssform input[type="checkbox"]
+{
+	/*width of text boxes. IE6 does not understand this attribute*/
+	border-right: dimgray 1px solid;
+	border-top: #dddddd 1px solid;
+	border-left: #dddddd 1px solid;
+	border-bottom: #dddddd 1px solid;
+	padding-right: 2px;
+	padding-left: 2px;
+	padding-bottom: 3px;
+	padding-top: 3px;
+	background-image: url(formTFBg.html);
+	background-repeat: repeat-x;
+	background-color: #dddddd;
+	border-right: #333333 1px solid;
+}
+
+
+
+.cssform .radio
+{
+	border: 1px solid #CCCCCC;
+	float: left;
+	text-align: left;
+	width: 150px;
+}
+
+.cssform .radio label
+{
+	font-weight: bold;
+	color: #666666;
+	position: absolute;
+}
+
+
+.cssform select
+{
+	/*width of text boxes. IE6 does not understand this attribute*/
+	border-right: dimgray 1px solid;
+	border-top: #dddddd 1px solid;
+	border-left: #dddddd 1px solid;
+	border-bottom: #dddddd 1px solid;
+	background-image: url(formTFBg.html);
+	background-repeat: repeat-x;
+	background-color: #FFFFFF;
+	border-right: #333333 1px solid;
+	border-color: #666666;
+}
+
+.cssform textarea
+{
+    height: 150px;
+    border-right: #dddddd 1px solid;
+    border-top: #dddddd 1px solid;
+    border-left: #dddddd 1px solid;
+    border-bottom: #dddddd 1px solid;
+    background-image: url(formTFBg.html);
+    background-repeat: repeat-x;
+    background-color: #FFFFFF;
+    padding-right: 2px;
+    padding-left: 2px;
+    padding-bottom: 3px;
+    padding-top: 3px;
+    border-color: #999999;
+    color: #333333;
+}
+
+.required
+{
+	color: #FF0000;
+}
+
+.radgrid-required
+{
+    color: #00FF00;
+    font-weight: bold;
+}
+
+.cssform .small
+{
+	font-size: x-small;
+}
+
+
+/*.threepxfix class below:
+Targets IE6- ONLY. Adds 3 pixel indent for multi-line form contents.
+to account for 3 pixel bug: http://www.positioniseverything.net/explorer/threepxtest.html
+*/
+
+* html .threepxfix{
+margin-left: 3px;
+}
+
+
+.cssformsml p
+{
+    width: 300px;
+    clear: left;
+    margin: 0;
+    padding: 5px 0 4px 5px; /*width of left column containing the label elements*/
+    height: 1%;
+}
+
+.cssformsml label
+{
+    font-weight: bold;
+    float: left;
+    text-align: right;
+    margin-left: -10px; /*width of left column*/
+    width: 100px;
+    margin-right: 6px;
+    font-size: .7em;
+}
+
+.cssformsml input[type="text"],textarea
+{
+    /*width of text boxes. IE6 does not understand this attribute*/
+    border-right: dimgray 1px solid;
+    border-top: #dddddd 1px solid;
+    border-left: #dddddd 1px solid;
+    border-bottom: #dddddd 1px solid;
+    padding-right: 2px;
+    padding-left: 2px;
+    padding-bottom: 3px;
+    padding-top: 3px;
+    background-image: url(formTFBg.html);
+    background-repeat: repeat-x;
+    background-color: #333333;
+    border-right: #dddddd 1px solid;
+    border-color: #FFFFFF;
+    color: #FFFFFF;
+}
+
+
+/* gallery start */
+.gallery{
+	height:1%;
+	overflow:hidden;
+	margin:0 0 38px;
+}
+.gallery .inner{
+	width:590px;
+	position:relative;
+	overflow:hidden;
+}
+.gallery .inner ul{
+	margin:0;
+	padding:0;
+	list-style:none;
+	position:relative;
+	width:580px;
+	height:600px;
+	overflow:hidden;
+}
+.gallery .inner ul li{
+	float:left;
+	width:590px;
+	position:absolute;
+	left:0;
+	top:0;
+	z-index:1;
+}
+.gallery .inner ul li.active{z-index:2;}
+.gallery .inner ul img{
+	display:block;
+	 margin: 10px auto 10px auto;
+    background-color: #FFFFFF;
+    padding: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    
+	
+}
+/* swicher-wrap start */
+.swicher-wrap{
+	position:absolute;
+	top:350px;
+	right:2px;
+	float:right;
+	background:url(../images/bg-swicher.html) no-repeat;
+}
+.swicher-wrap .holder{
+	float:left;
+	background:url(../images/bg-swicher.html) no-repeat 100% 0;
+	height:19px;
+	padding:1px 22px 0 30px;
+	width:254px;
+}
+.swicher-wrap a{
+	float:left;
+}
+.swicher-wrap ul{
+	margin:0;
+	padding:0;
+	list-style:none;
+	float:left;
+}
+.swicher-wrap ul li{
+	float:left;
+	margin:2px 0 0 8px;
+	display:inline;
+}
+.swicher-wrap ul a{
+	float:left;
+	background:url(../images/ico03.html) no-repeat;
+	width:11px;
+	height:11px;
+	overflow:hidden;
+	line-height:0;
+	font-size:0;
+}
+.swicher-wrap ul a:hover,
+.swicher-wrap ul .active a{
+	background-position:0 -12px;
+}
+.link-prev,
+.link-next{
+	text-indent:-9999px;
+	overflow:hidden;
+	background:url(../images/btn-prev.html) no-repeat;
+	width:9px;
+	height:10px;
+	margin:3px 0 0;
+	font-size:0;
+	line-height:0;
+}
+.link-next{
+	background:url(../images/btn-next.html) no-repeat;
+	margin:3px 26px 0 9px;
+}
+.pause{
+	background:url(../images/ico04.html) no-repeat 100% 3px;
+	padding:0 10px 0 0;
+	color:#fff;
+	font-size:12px;
+	line-height:14px;
+}
+.gallery .inner .frame
+{
+    
+    left: 0px;
+    width: 588px;
+    color: #fff;
+    top: 50px;
+}
+.gallery .inner .frame div
+{
+    height: 1%;
+    padding: 9px 14px 13px;
+    background-color: #333399;
+}
+.gallery .inner strong{
+	display:block;
+	height:1%;
+	position:relative;
+	padding:0 0 4px;
+	font-size:1em;
+	line-height:1em;
+}
+.gallery .inner p{
+	margin:0 0 10px;
+	position:relative;
+	font-size:1em;
+	line-height:1em;
+}
+.gallery .more{
+	background:url(../images/btn-more.html) no-repeat;
+	width:155px;
+	height:24px;
+	text-indent:-9999px;
+	overflow:hidden;
+	display:block;
+	position:relative;
+}
+
+/*****************************************************************************
+scalable Inman Flash Replacement (sIFR) version 3.
+
+Copyright 2006 – 2008 Mark Wubben, <http://novemberborn.net/>
+
+Older versions:
+* IFR by Shaun Inman
+* sIFR 1.0 by Mike Davidson, Shaun Inman and Tomas Jogin
+* sIFR 2.0 by Mike Davidson, Shaun Inman, Tomas Jogin and Mark Wubben
+
+See also <http://novemberborn.net/sifr3> and <http://wiki.novemberborn.net/sifr3>.
+
+This software is licensed and provided under the CC-GNU LGPL.
+See <http://creativecommons.org/licenses/LGPL/2.1/>
+*****************************************************************************/
+
+@media screen {
+  .sIFR-flash {
+    visibility: visible !important;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .sIFR-replaced, .sIFR-ignore {
+    visibility: visible !important;
+  }
+  
+  .sIFR-alternate {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 0;
+    height: 0;
+    display: block;
+    overflow: hidden;
+  }
+  
+  .sIFR-replaced div.sIFR-fixfocus {
+    margin: 0pt; 
+    padding: 0pt; 
+    overflow: auto; 
+    letter-spacing: 0px; 
+    float: none;
+  }
+}
+
+@media print {
+  .sIFR-flash {
+    display    : none !important;
+    height     : 0;
+    width      : 0;
+    position   : absolute;
+    overflow   : hidden;
+  }
+  
+  .sIFR-alternate {
+    visibility : visible !important;
+    display    : block   !important;
+    position   : static  !important;
+    left       : auto    !important;
+    top        : auto    !important;
+    width      : auto    !important;
+    height     : auto    !important;
+  }
+}
+
+/*
+Place CSS rules for to-be-replaced elements here. Prefix by .sIFR-active
+so they only apply if sIFR is active. Make sure to limit the CSS to the screen
+media type, in order not to have the printed text come out weird.
+*/
+
+@media screen {
+
+ 
+	.sIFR-active #content-wrapper h1
+    {
+        visibility: hidden;
+        font-family: Arial, Helvetica, sans-serif;
+            }
+  .sIFR-active #content-wrapper h2 {
+	visibility: hidden;
+	font-family: Arial, Helvetica, sans-serif;
+	
+
+
+}
+
+  .sIFR-active #content-wrapper h3
+    {
+        padding: 0px;
+        margin: 0px;
+        visibility: hidden;
+        font-family: Arial, Helvetica, sans-serif;
+        line-height: 1em;
+    }
+
+	
+
+
+}
+
+
+
+/***********************************************/
+/* sIFR text replacement End                   */
+/***********************************************/
+
+/***********************************************/
+/* Image Gallery Styles 		               */
+/***********************************************/
+
+.art-wrapper
+{
+    padding: 5px;
+    margin: 20px 13.5px 15px 0px;
+    background-color: #CCCCCC;
+    border: 2px solid #999999;
+    width: 220px;
+    height: 330px;
+    float: left;
+}
+
+.art-wrapper a:hover
+{
+    background-color: #FFFFFF;
+}
+
+.img-thumb
+{
+    margin-right: auto;
+    margin-left: auto;
+    width: 220px;
+    text-align: center;
+    height: 158px;
+    overflow: hidden;
+   
+}
+
+.img-thumb img
+{
+    padding: 4px;
+    background-color: #FFFFFF;
+}
+
+.art-info
+{
+    overflow: auto;
+}
+
+.art-info p
+{
+    font-size: x-small;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.art-info h2
+{
+    font-size: .9em;
+    font-weight: bold;
+    padding: 0px;
+    margin: 0px;
+}
+
+.art-info h3
+{
+    font-size: .9em;
+    font-weight: bold;
+    padding: 0px;
+    margin: 0px;
+}
+
+.art-info h4
+{
+    padding: 0px;
+    margin: 0px;
+    font-size: .7em;
+    font-weight: bold;
+}
+
+#artworkdetail-wrapper {}
+
+.artDetail
+{
+    padding: 0px 10px 10px 10px;
+    width: 340px;
+    border: 2px solid #EEEEEE;
+    float: right;
+}
+
+.artenquiry
+{
+    padding: 10px;
+    background-color: #999999;
+    color: #FFFFFF;
+    margin-bottom: 10px;
+    width: 340px;
+    float: right;
+}
+.lmargin
+{
+    margin-left: 5px;
+}
+
+.enqmsl
+{
+    font-size: .8em;
+}
+
+
+#artworkdetail-wrapper .imagewrapper
+{
+    padding: 5px;
+    background-color: #EEEEEE;
+}
+
+/***********************************************/
+/* CMS Styles   				               */
+/***********************************************/
+
+.cancel-btn
+{
+    margin-right: 5px;
+    margin-left: 5px;
+    
+}
+
+.btnViewDetail
+{
+    float: right;
+    margin: 10px 5px 5px 5px;
+}
