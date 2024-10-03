@@ -1,4 +1,8 @@
-name: Azure Static Web Apps CI/CD
+name: Deploy web app to Azure Static Web Apps
+
+env:
+  APP_LOCATION: "/" # location of your client code
+  OUTPUT_LOCATION: "/" # location of client code build output
 
 on:
   push:
@@ -28,9 +32,8 @@ jobs:
           action: "upload"
           ###### Repository/Build Configurations - These values can be configured to match your app requirements. ######
           # For more information regarding Static Web App workflow configurations, please visit: https://aka.ms/swaworkflowconfig
-          app_location: "/" # App source code path
-          api_location: "Api" # Api source code path - optional
-          output_location: "wwwroot" # Built app content directory - optional
+          app_location: ${{ env.APP_LOCATION }}
+          output_location: ${{ env.OUTPUT_LOCATION }}
           ###### End of Repository/Build Configurations ######
 
   close_pull_request_job:
