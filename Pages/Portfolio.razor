@@ -1,0 +1,97 @@
+﻿@page "/portfolio"
+@page "/portfolio/{ArtworkId}"
+@inject HttpClient Http
+
+
+@if (string.IsNullOrEmpty(ArtworkId))
+
+{
+    <h1>Portfolio</h1>
+    <p>
+        To view more details of artwork click the &quot;View Detail&quot; button or alternatively
+        you can click on the image to view a larger version of the artwork.
+    </p>
+    <p>The view details section allows you to make a online enquiry. You can use the navigation to change the page size and navigate from page to page, by default the portfolio paging is set to 12 items per page.</p>
+    <p>The majority of paintings shown have been professionally framed and the cost of framing is included in the selling prices listed. Unframed work may be identified by clicking on to the view detail boxes.</p>
+    @if (artWorks == null)
+    {
+        <p><em>Loading...</em></p>
+    }
+    else
+    {
+
+        @foreach (var artWork in artWorks)
+        {
+            
+            <div class="art-wrapper">
+                <div class="img-thumb">
+                    <a href="img/artwork/@artWork.artworkFilename" ToolTip="@artWork.artworkName - By Trevor Bollen" title="@artWork.artworkName - By Trevor Bollen">
+                        <img src="img/artwork/@artWork.artworkFilename.Replace(".jpg", "_thumb.jpg")" title="@artWork.artworkName - By Trevor Bollen" alt="@artWork.artworkName - By Trevor Bollen" />
+                    </a>
+                </div>
+                <div class="art-info">
+                    <h3>@artWork.artworkName</h3>
+                    <p><b>Medium:</b> @artWork.artworkMediumID </p>
+                    <p><b>Size:</b> @artWork.width x @artWork.height (cm) </p>
+                    <p><b>Price:</b> £@artWork.price</p>
+                    <p><a href="portfolio/@artWork.artworkID"><img src="img/btn-detail-sml.jpg" Class="btnViewDetail" AlternateText="Click here to view artwork details" ToolTip="Click here to view artwork details" /></a></p>
+                </div>
+            </div>
+
+
+
+        }
+
+    }
+
+}
+else
+{
+    <a href="portfolio"><img class="hypRight" src="img/btn-backtogallery.jpg" AlternateText="Back to Gallery" ToolTip="Back to Gallery" /></a>
+    <h3>Portfolio / Detail / ImageName</h3>
+
+    <p>The majority of paintings shown have been professionally framed and the cost of framing is included in the selling prices listed.</p>
+    <br class="clearfloat" />
+    <div id="artworkdetail-wrapper">
+        <div class="artDetail" runat="server" id="divArtDetail">
+            <h2>Title</h2>
+
+            <p>Desc</p>
+            <p><b>Medium:</b></p>
+            <p><b>Size:</b></p>
+            <p><b>Price: </b> </p>
+            <p><b>Sold:</b></p>
+
+            <img src="img/btn-enquiry.jpg" ImageAlign="Right" />
+        </div>
+
+    </div>
+    <img src="img/artwork/02112013190711_img_1459.jpg" class="imagewrapper" />
+    <br class="clearfloat" />
+}
+
+
+
+@code {
+    private artWork[]? artWorks;
+
+    protected override async Task OnInitializedAsync()
+    {
+        artWorks = await Http.GetFromJsonAsync<artWork[]>("data/artwork.json");
+    }
+
+    public class artWork
+    {
+     public int artworkID { get; set; }
+     public string? artworkName { get; set; }
+     public string? artworkFilename { get; set; }
+     public string? description { get; set; }
+     public string? artworkMediumID { get; set; }
+     public string? price { get; set; }
+     public string? width { get; set; }
+     public string? height { get; set; }
+    }
+
+    [Parameter]
+    public string? ArtworkId { get; set; }
+}

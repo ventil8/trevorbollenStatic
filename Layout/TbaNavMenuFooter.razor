@@ -1,0 +1,51 @@
+﻿<ul>
+    <li>
+        <NavLink href="" Match="NavLinkMatch.All">
+            home
+        </NavLink>
+    </li>
+    <li>
+        <NavLink  href="portfolio">
+            Portfolio
+        </NavLink>
+    </li>
+    <li>
+        <NavLink  href="exhibitions">
+            Exhibitions
+        </NavLink>
+    </li>
+    <li>
+        <NavLink  href="contact">
+            Contact
+        </NavLink>
+    </li>
+    <li>
+        <NavLink  href="about">
+            about
+        </NavLink>
+    </li>
+    <li>
+        <NavLink  href="privacypolicy">
+            PRIVACY POLICY
+        </NavLink>
+    </li>
+    <li>
+        <NavLink  href="terms">
+            TERMS
+        </NavLink>
+    </li>
+
+</ul>
+<br class="clearfloat" />
+<h2>www.trevorbollenart.co.uk</h2>
+
+@code {
+    private bool collapseNavMenu = true;
+
+    private string? NavMenuCssClass => collapseNavMenu ? "collapse" : null;
+
+    private void ToggleNavMenu()
+    {
+        collapseNavMenu = !collapseNavMenu;
+    }
+}

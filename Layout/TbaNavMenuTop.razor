@@ -1,0 +1,40 @@
+﻿<div class="@NavMenuCssClass nav-scrollable" @onclick="ToggleNavMenu">
+    <nav class="flex-column">
+        <div class="nav-item">
+            <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
+                <span class="bi " aria-hidden="true"></span> Home
+            </NavLink>
+        </div>
+        <div class="nav-item">
+            <NavLink class="nav-link" href="portfolio">
+                <span class="bi" aria-hidden="true"></span> Portfolio
+            </NavLink>
+        </div>
+        <div class="nav-item">
+            <NavLink class="nav-link" href="exhibitions">
+                <span class="bi bi-list-nested-nav-menu" aria-hidden="true"></span> Exhibitions
+            </NavLink>
+        </div>
+        <div class="nav-item">
+            <NavLink class="nav-link" href="contact">
+                <span class="bi bi-list-nested-nav-menu" aria-hidden="true"></span> Contact
+            </NavLink>
+        </div>
+        <div class="nav-item">
+            <NavLink class="nav-link" href="about">
+                <span class="bi bi-list-nested-nav-menu" aria-hidden="true"></span> About
+            </NavLink>
+        </div>
+    </nav>
+</div>
+
+@code {
+    private bool collapseNavMenu = true;
+
+    private string? NavMenuCssClass => collapseNavMenu ? "collapse" : null;
+
+    private void ToggleNavMenu()
+    {
+        collapseNavMenu = !collapseNavMenu;
+    }
+}
