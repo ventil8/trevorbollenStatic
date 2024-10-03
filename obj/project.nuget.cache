@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "qxKCEZrO6xs=",
+  "dgSpecHash": "a5hdh4H30Jg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\tbaBlazor.csproj",
+  "projectFilePath": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\tbaBlazor.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\steph\\.nuget\\packages\\blazor.bootstrap\\3.0.0\\blazor.bootstrap.3.0.0.nupkg.sha512",
     "C:\\Users\\steph\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.7\\microsoft.aspnetcore.authorization.8.0.7.nupkg.sha512",
     "C:\\Users\\steph\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.7\\microsoft.aspnetcore.components.8.0.7.nupkg.sha512",
     "C:\\Users\\steph\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\8.0.7\\microsoft.aspnetcore.components.analyzers.8.0.7.nupkg.sha512",

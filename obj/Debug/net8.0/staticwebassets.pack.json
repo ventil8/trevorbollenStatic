@@ -1,1976 +1,1972 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\obj\\Debug\\net8.0\\compressed\\avfdkkq1ew.gz",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\obj\\Debug\\net8.0\\compressed\\avfdkkq1ew.gz",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\tbaBlazor.styles.css",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\obj\\Debug\\net8.0\\scopedcss\\bundle\\tbaBlazor.styles.css",
       "PackagePath": "staticwebassets\\tbaBlazor.styles.css"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\css\\app.css",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\css\\colorbox.css",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\css\\colorbox.css",
       "PackagePath": "staticwebassets\\css\\colorbox.css"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\css\\footer-bg.gif",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\css\\footer-bg.gif",
       "PackagePath": "staticwebassets\\css\\footer-bg.gif"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\css\\gray-grad-bg.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\css\\gray-grad-bg.jpg",
       "PackagePath": "staticwebassets\\css\\gray-grad-bg.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\css\\tbaV1.css",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\css\\tbaV1.css",
       "PackagePath": "staticwebassets\\css\\tbaV1.css"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\data\\artwork.json",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\data\\artwork.json",
       "PackagePath": "staticwebassets\\data\\artwork.json"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\favicon.png",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\icon-192.png",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\icon-192.png",
       "PackagePath": "staticwebassets\\icon-192.png"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\Din.swf",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\Din.swf",
       "PackagePath": "staticwebassets\\img\\Din.swf"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\Icon.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\Icon.jpg",
       "PackagePath": "staticwebassets\\img\\Icon.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\animated_favicon1.gif",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\animated_favicon1.gif",
       "PackagePath": "staticwebassets\\img\\animated_favicon1.gif"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\02112013190711_img_1459.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\02112013190711_img_1459.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\02112013190711_img_1459.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\02112013190711_img_1459_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\02112013190711_img_1459_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\02112013190711_img_1459_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\02112013190711_img_1459_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\02112013190711_img_1459_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\02112013190711_img_1459_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\100238-rare-depression-era-photos-in-color.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\100238-rare-depression-era-photos-in-color.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\100238-rare-depression-era-photos-in-color.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\10062011215352_shutterstock_2321672.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\10062011215352_shutterstock_2321672.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\10062011215352_shutterstock_2321672.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\10062011215352_shutterstock_2321672_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\10062011215352_shutterstock_2321672_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\10062011215352_shutterstock_2321672_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\10062011215352_shutterstock_2321672_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\10062011215352_shutterstock_2321672_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\10062011215352_shutterstock_2321672_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\10062011220815_soldierno1-tb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\10062011220815_soldierno1-tb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\10062011220815_soldierno1-tb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\10062011220815_soldierno1-tb_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\10062011220815_soldierno1-tb_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\10062011220815_soldierno1-tb_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\10062011220815_soldierno1-tb_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\10062011220815_soldierno1-tb_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\10062011220815_soldierno1-tb_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\10062011223332_soldierno1-tb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\10062011223332_soldierno1-tb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\10062011223332_soldierno1-tb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\10062011223332_soldierno1-tb_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\10062011223332_soldierno1-tb_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\10062011223332_soldierno1-tb_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\10062011223332_soldierno1-tb_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\10062011223332_soldierno1-tb_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\10062011223332_soldierno1-tb_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\10062011224802_shutterstock_2321672.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\10062011224802_shutterstock_2321672.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\10062011224802_shutterstock_2321672.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\10062011224920_shutterstock_2321672.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\10062011224920_shutterstock_2321672.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\10062011224920_shutterstock_2321672.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\10062011224920_shutterstock_2321672_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\10062011224920_shutterstock_2321672_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\10062011224920_shutterstock_2321672_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\10062011224920_shutterstock_2321672_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\10062011224920_shutterstock_2321672_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\10062011224920_shutterstock_2321672_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\10062011225028_100238-rare-depression-era-photos-in-color.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\10062011225028_100238-rare-depression-era-photos-in-color.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\10062011225028_100238-rare-depression-era-photos-in-color.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\10062011225028_100238-rare-depression-era-photos-in-color_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\10062011225028_100238-rare-depression-era-photos-in-color_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\10062011225028_100238-rare-depression-era-photos-in-color_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\10062011225028_100238-rare-depression-era-photos-in-color_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\10062011225028_100238-rare-depression-era-photos-in-color_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\10062011225028_100238-rare-depression-era-photos-in-color_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\10062011225053_100238-rare-depression-era-photos-in-color.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\10062011225053_100238-rare-depression-era-photos-in-color.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\10062011225053_100238-rare-depression-era-photos-in-color.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\10062011225053_100238-rare-depression-era-photos-in-color_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\10062011225053_100238-rare-depression-era-photos-in-color_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\10062011225053_100238-rare-depression-era-photos-in-color_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\10062011225053_100238-rare-depression-era-photos-in-color_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\10062011225053_100238-rare-depression-era-photos-in-color_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\10062011225053_100238-rare-depression-era-photos-in-color_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\10062011225110_100238-rare-depression-era-photos-in-color.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\10062011225110_100238-rare-depression-era-photos-in-color.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\10062011225110_100238-rare-depression-era-photos-in-color.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\10062011225110_100238-rare-depression-era-photos-in-color_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\10062011225110_100238-rare-depression-era-photos-in-color_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\10062011225110_100238-rare-depression-era-photos-in-color_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\10062011225110_100238-rare-depression-era-photos-in-color_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\10062011225110_100238-rare-depression-era-photos-in-color_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\10062011225110_100238-rare-depression-era-photos-in-color_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\10062011225537_100238-rare-depression-era-photos-in-color.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\10062011225537_100238-rare-depression-era-photos-in-color.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\10062011225537_100238-rare-depression-era-photos-in-color.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\10062011225537_100238-rare-depression-era-photos-in-color_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\10062011225537_100238-rare-depression-era-photos-in-color_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\10062011225537_100238-rare-depression-era-photos-in-color_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\10062011225537_100238-rare-depression-era-photos-in-color_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\10062011225537_100238-rare-depression-era-photos-in-color_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\10062011225537_100238-rare-depression-era-photos-in-color_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\10062011231107_soldierno1-tb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\10062011231107_soldierno1-tb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\10062011231107_soldierno1-tb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\10062011231107_soldierno1-tb_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\10062011231107_soldierno1-tb_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\10062011231107_soldierno1-tb_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\10062011231107_soldierno1-tb_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\10062011231107_soldierno1-tb_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\10062011231107_soldierno1-tb_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\16052012191734_IMG_2853.JPG",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\16052012191734_IMG_2853.JPG",
       "PackagePath": "staticwebassets\\img\\artwork\\16052012191734_IMG_2853.JPG"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\16052012191734_img_2853_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\16052012191734_img_2853_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\16052012191734_img_2853_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\16052012191734_img_2853_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\16052012191734_img_2853_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\16052012191734_img_2853_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\18102016182219_IMG_0667.JPG",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\18102016182219_IMG_0667.JPG",
       "PackagePath": "staticwebassets\\img\\artwork\\18102016182219_IMG_0667.JPG"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\18102016182330_IMG_0667.JPG",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\18102016182330_IMG_0667.JPG",
       "PackagePath": "staticwebassets\\img\\artwork\\18102016182330_IMG_0667.JPG"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\21102016220532_img_0667.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\21102016220532_img_0667.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\21102016220532_img_0667.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\21102016220532_img_0667_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\21102016220532_img_0667_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\21102016220532_img_0667_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\21102016220532_img_0667_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\21102016220532_img_0667_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\21102016220532_img_0667_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\21102016230257_img_4356.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\21102016230257_img_4356.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\21102016230257_img_4356.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\21102016230257_img_4356_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\21102016230257_img_4356_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\21102016230257_img_4356_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\21102016230257_img_4356_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\21102016230257_img_4356_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\21102016230257_img_4356_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\22102016174741_img_4735.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\22102016174741_img_4735.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\22102016174741_img_4735.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\22102016174741_img_4735_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\22102016174741_img_4735_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\22102016174741_img_4735_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\22102016174741_img_4735_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\22102016174741_img_4735_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\22102016174741_img_4735_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\25032014184156_img_2132.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\25032014184156_img_2132.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\25032014184156_img_2132.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\25032014184156_img_2132_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\25032014184156_img_2132_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\25032014184156_img_2132_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\25032014184156_img_2132_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\25032014184156_img_2132_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\25032014184156_img_2132_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\IMG_0667.JPG",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\IMG_0667.JPG",
       "PackagePath": "staticwebassets\\img\\artwork\\IMG_0667.JPG"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\IMG_2853.JPG",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\IMG_2853.JPG",
       "PackagePath": "staticwebassets\\img\\artwork\\IMG_2853.JPG"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\algarve_chapel.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\algarve_chapel.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\algarve_chapel.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\algarve_chapel_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\algarve_chapel_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\algarve_chapel_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\algarve_chapel_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\algarve_chapel_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\algarve_chapel_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\algarve_seagulls.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\algarve_seagulls.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\algarve_seagulls.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\algarve_seagulls_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\algarve_seagulls_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\algarve_seagulls_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\algarve_seagulls_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\algarve_seagulls_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\algarve_seagulls_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\andalucia.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\andalucia.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\andalucia.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\andalucia_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\andalucia_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\andalucia_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\andalucia_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\andalucia_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\andalucia_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\autum-coast-tb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\autum-coast-tb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\autum-coast-tb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\autum-coast-tb_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\autum-coast-tb_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\autum-coast-tb_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\autum-coast-tb_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\autum-coast-tb_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\autum-coast-tb_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\blossom.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\blossom.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\blossom.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\blossom_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\blossom_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\blossom_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\blossom_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\blossom_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\blossom_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\brazil_remembered.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\brazil_remembered.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\brazil_remembered.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\brazil_remembered_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\brazil_remembered_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\brazil_remembered_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\brazil_remembered_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\brazil_remembered_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\brazil_remembered_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\central_park_new_york_city.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\central_park_new_york_city.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\central_park_new_york_city.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\central_park_new_york_city_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\central_park_new_york_city_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\central_park_new_york_city_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\central_park_new_york_city_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\central_park_new_york_city_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\central_park_new_york_city_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\charles_demuth_flowers.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\charles_demuth_flowers.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\charles_demuth_flowers.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\charles_demuth_flowers_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\charles_demuth_flowers_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\charles_demuth_flowers_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\charles_demuth_flowers_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\charles_demuth_flowers_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\charles_demuth_flowers_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\chloe.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\chloe.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\chloe.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\chloe_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\chloe_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\chloe_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\chloe_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\chloe_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\chloe_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\coming_in.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\coming_in.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\coming_in.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\coming_in_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\coming_in_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\coming_in_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\coming_in_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\coming_in_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\coming_in_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\cross_of_lorraine.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\cross_of_lorraine.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\cross_of_lorraine.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\cross_of_lorraine_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\cross_of_lorraine_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\cross_of_lorraine_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\cross_of_lorraine_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\cross_of_lorraine_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\cross_of_lorraine_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\cuba_libre.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\cuba_libre.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\cuba_libre.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\cuba_libre_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\cuba_libre_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\cuba_libre_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\cuba_libre_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\cuba_libre_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\cuba_libre_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\dsc00989.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\dsc00989.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\dsc00989.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\dsc00989_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\dsc00989_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\dsc00989_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\dsc00989_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\dsc00989_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\dsc00989_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\evening_glow.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\evening_glow.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\evening_glow.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\evening_glow_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\evening_glow_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\evening_glow_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\evening_glow_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\evening_glow_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\evening_glow_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\frazerburgh_lighthouse.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\frazerburgh_lighthouse.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\frazerburgh_lighthouse.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\frazerburgh_lighthouse_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\frazerburgh_lighthouse_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\frazerburgh_lighthouse_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\frazerburgh_lighthouse_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\frazerburgh_lighthouse_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\frazerburgh_lighthouse_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\glasgow_central.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\glasgow_central.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\glasgow_central.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\glasgow_central_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\glasgow_central_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\glasgow_central_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\glasgow_central_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\glasgow_central_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\glasgow_central_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\glenlee.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\glenlee.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\glenlee.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\glenlee_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\glenlee_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\glenlee_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\glenlee_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\glenlee_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\glenlee_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\image1.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\image1.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\image1.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\image1_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\image1_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\image1_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\image1_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\image1_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\image1_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_0001.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_0001.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_0001.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_0001_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_0001_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_0001_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_0001_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_0001_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_0001_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_0097.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_0097.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_0097.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_0097_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_0097_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_0097_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_0097_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_0097_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_0097_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_0313.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_0313.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_0313.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_0313_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_0313_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_0313_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_0313_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_0313_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_0313_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_0434.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_0434.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_0434.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_0434_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_0434_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_0434_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_0434_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_0434_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_0434_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_0469.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_0469.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_0469.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_0469_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_0469_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_0469_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_0469_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_0469_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_0469_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_0554.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_0554.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_0554.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_0554_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_0554_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_0554_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_0554_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_0554_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_0554_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_0562.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_0562.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_0562.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_0562_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_0562_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_0562_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_0562_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_0562_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_0562_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_0572.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_0572.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_0572.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_0572_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_0572_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_0572_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_0572_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_0572_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_0572_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_0576.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_0576.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_0576.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_0576_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_0576_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_0576_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_0576_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_0576_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_0576_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_0593.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_0593.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_0593.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_0593_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_0593_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_0593_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_0593_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_0593_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_0593_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_0609.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_0609.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_0609.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_0609_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_0609_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_0609_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_0609_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_0609_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_0609_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_0640.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_0640.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_0640.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_0640_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_0640_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_0640_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_0640_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_0640_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_0640_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_0722.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_0722.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_0722.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_0722_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_0722_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_0722_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_0722_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_0722_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_0722_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_0752.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_0752.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_0752.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_0752_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_0752_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_0752_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_0752_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_0752_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_0752_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_0797.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_0797.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_0797.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_0797_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_0797_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_0797_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_0797_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_0797_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_0797_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_0959.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_0959.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_0959.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_0959_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_0959_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_0959_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_0959_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_0959_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_0959_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_1064.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_1064.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_1064.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_1064_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_1064_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_1064_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_1064_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_1064_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_1064_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_1079.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_1079.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_1079.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_1079_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_1079_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_1079_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_1079_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_1079_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_1079_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_1341.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_1341.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_1341.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_1341_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_1341_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_1341_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_1341_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_1341_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_1341_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_1425.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_1425.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_1425.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_1425_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_1425_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_1425_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_1425_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_1425_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_1425_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_1452.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_1452.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_1452.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_1452_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_1452_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_1452_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_1452_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_1452_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_1452_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_1459.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_1459.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_1459.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_1459_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_1459_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_1459_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_1459_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_1459_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_1459_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_1572.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_1572.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_1572.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_1572_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_1572_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_1572_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_1572_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_1572_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_1572_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_1578.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_1578.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_1578.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_1578_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_1578_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_1578_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_1578_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_1578_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_1578_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_1752.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_1752.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_1752.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_1752_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_1752_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_1752_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_1752_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_1752_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_1752_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_1837.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_1837.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_1837.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_1837_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_1837_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_1837_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_1837_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_1837_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_1837_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_1932.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_1932.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_1932.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_1932_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_1932_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_1932_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_1932_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_1932_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_1932_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_1957.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_1957.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_1957.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_1957_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_1957_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_1957_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_1957_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_1957_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_1957_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_2108.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_2108.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_2108.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_2108_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_2108_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_2108_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_2108_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_2108_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_2108_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_2119.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_2119.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_2119.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_2119_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_2119_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_2119_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_2119_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_2119_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_2119_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_2120.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_2120.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_2120.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_2120_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_2120_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_2120_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_2120_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_2120_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_2120_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_2130.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_2130.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_2130.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_2130_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_2130_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_2130_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_2130_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_2130_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_2130_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_2132.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_2132.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_2132.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_2132_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_2132_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_2132_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_2132_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_2132_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_2132_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_2134.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_2134.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_2134.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_2134_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_2134_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_2134_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_2134_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_2134_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_2134_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_2164.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_2164.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_2164.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_2164_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_2164_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_2164_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_2164_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_2164_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_2164_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_2371.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_2371.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_2371.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_2371_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_2371_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_2371_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_2371_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_2371_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_2371_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_2437.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_2437.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_2437.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_2437_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_2437_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_2437_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_2437_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_2437_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_2437_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_2853_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_2853_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_2853_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_2853_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_2853_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_2853_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_3131.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_3131.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_3131.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_3131_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_3131_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_3131_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_3131_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_3131_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_3131_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_3319.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_3319.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_3319.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_3319_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_3319_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_3319_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_3319_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_3319_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_3319_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_3422.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_3422.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_3422.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_3422_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_3422_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_3422_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_3422_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_3422_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_3422_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_3451.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_3451.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_3451.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_3451_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_3451_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_3451_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_3451_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_3451_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_3451_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_3787.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_3787.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_3787.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_3787_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_3787_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_3787_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_3787_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_3787_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_3787_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_3886.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_3886.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_3886.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_3886_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_3886_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_3886_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_3886_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_3886_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_3886_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_3978.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_3978.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_3978.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_3978_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_3978_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_3978_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_3978_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_3978_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_3978_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_4073.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_4073.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_4073.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_4073_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_4073_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_4073_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_4073_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_4073_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_4073_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_4139.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_4139.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_4139.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_4139_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_4139_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_4139_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_4139_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_4139_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_4139_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_4275.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_4275.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_4275.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_4275_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_4275_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_4275_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_4275_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_4275_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_4275_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_4356.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_4356.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_4356.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_4356_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_4356_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_4356_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_4356_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_4356_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_4356_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_4470.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_4470.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_4470.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_4470_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_4470_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_4470_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_4470_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_4470_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_4470_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_4531.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_4531.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_4531.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_4531_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_4531_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_4531_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_4531_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_4531_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_4531_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_4569.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_4569.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_4569.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_4569_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_4569_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_4569_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_4569_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_4569_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_4569_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_4737.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_4737.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_4737.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_4737_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_4737_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_4737_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_4737_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_4737_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_4737_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_4750.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_4750.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_4750.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_4750_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_4750_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_4750_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_4750_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_4750_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_4750_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_4770.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_4770.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_4770.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_4770_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_4770_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_4770_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_4770_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_4770_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_4770_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_4870.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_4870.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_4870.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_4870_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_4870_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_4870_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_4870_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_4870_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_4870_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_4900.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_4900.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_4900.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_4900_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_4900_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_4900_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_4900_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_4900_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_4900_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_4966.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_4966.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_4966.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_4966_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_4966_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_4966_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_4966_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_4966_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_4966_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_4969.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_4969.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_4969.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_4969_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_4969_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_4969_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_4969_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_4969_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_4969_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_4972.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_4972.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_4972.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_4972_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_4972_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_4972_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_4972_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_4972_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_4972_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_5029.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_5029.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_5029.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_5029_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_5029_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_5029_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_5029_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_5029_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_5029_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_5062.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_5062.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_5062.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_5062_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_5062_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_5062_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_5062_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_5062_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_5062_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_5209.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_5209.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_5209.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_5209_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_5209_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_5209_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_5209_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_5209_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_5209_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_5223.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_5223.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_5223.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_5223_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_5223_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_5223_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_5223_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_5223_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_5223_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_5225.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_5225.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_5225.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_5225_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_5225_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_5225_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_5225_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_5225_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_5225_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_5433.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_5433.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_5433.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_5433_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_5433_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_5433_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_5433_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_5433_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_5433_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_5560.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_5560.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_5560.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_5560_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_5560_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_5560_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_5560_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_5560_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_5560_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_5620.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_5620.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_5620.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_5620_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_5620_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_5620_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_5620_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_5620_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_5620_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_5687.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_5687.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_5687.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_5687_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_5687_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_5687_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_5687_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_5687_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_5687_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_5722.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_5722.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_5722.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_5722_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_5722_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_5722_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_5722_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_5722_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_5722_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_5928.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_5928.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_5928.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_5928_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_5928_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_5928_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_5928_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_5928_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_5928_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_5964.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_5964.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_5964.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_5964_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_5964_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_5964_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_5964_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_5964_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_5964_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_6531.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_6531.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_6531.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_6531_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_6531_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_6531_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_6531_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_6531_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_6531_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_6827.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_6827.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_6827.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_6827_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_6827_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_6827_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_6827_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_6827_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_6827_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_6848.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_6848.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_6848.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_6848_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_6848_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_6848_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\img_6848_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\img_6848_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\img_6848_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\los_angeles.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\los_angeles.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\los_angeles.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\los_angeles_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\los_angeles_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\los_angeles_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\los_angeles_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\los_angeles_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\los_angeles_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\manhattan_dash.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\manhattan_dash.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\manhattan_dash.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\manhattan_dash_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\manhattan_dash_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\manhattan_dash_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\manhattan_dash_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\manhattan_dash_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\manhattan_dash_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\mata.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\mata.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\mata.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\mata_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\mata_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\mata_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\mata_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\mata_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\mata_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\natasha.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\natasha.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\natasha.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\natasha_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\natasha_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\natasha_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\natasha_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\natasha_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\natasha_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\new_york_6.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\new_york_6.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\new_york_6.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\new_york_6_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\new_york_6_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\new_york_6_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\new_york_6_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\new_york_6_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\new_york_6_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\new_york_7.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\new_york_7.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\new_york_7.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\new_york_7_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\new_york_7_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\new_york_7_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\new_york_7_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\new_york_7_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\new_york_7_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\newyork9-tb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\newyork9-tb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\newyork9-tb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\newyork9-tb_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\newyork9-tb_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\newyork9-tb_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\newyork9-tb_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\newyork9-tb_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\newyork9-tb_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\p1010004.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\p1010004.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\p1010004.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\p1010004_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\p1010004_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\p1010004_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\p1010004_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\p1010004_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\p1010004_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\p1010007.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\p1010007.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\p1010007.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\p1010007_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\p1010007_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\p1010007_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\p1010007_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\p1010007_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\p1010007_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\paris_2.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\paris_2.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\paris_2.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\paris_2_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\paris_2_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\paris_2_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\paris_2_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\paris_2_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\paris_2_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\pear_and_shadow.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\pear_and_shadow.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\pear_and_shadow.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\pear_and_shadow_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\pear_and_shadow_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\pear_and_shadow_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\pear_and_shadow_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\pear_and_shadow_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\pear_and_shadow_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\profilepic.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\profilepic.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\profilepic.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\profilepic_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\profilepic_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\profilepic_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\profilepic_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\profilepic_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\profilepic_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\quick_march.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\quick_march.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\quick_march.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\quick_march_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\quick_march_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\quick_march_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\quick_march_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\quick_march_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\quick_march_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\rue_ravignan_montmartre_paris.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\rue_ravignan_montmartre_paris.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\rue_ravignan_montmartre_paris.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\rue_ravignan_montmartre_paris_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\rue_ravignan_montmartre_paris_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\rue_ravignan_montmartre_paris_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\rue_ravignan_montmartre_paris_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\rue_ravignan_montmartre_paris_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\rue_ravignan_montmartre_paris_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\russian_summer.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\russian_summer.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\russian_summer.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\russian_summer_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\russian_summer_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\russian_summer_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\russian_summer_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\russian_summer_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\russian_summer_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\shall_we_dance.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\shall_we_dance.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\shall_we_dance.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\shall_we_dance_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\shall_we_dance_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\shall_we_dance_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\shall_we_dance_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\shall_we_dance_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\shall_we_dance_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\shanghai.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\shanghai.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\shanghai.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\shanghai_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\shanghai_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\shanghai_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\shanghai_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\shanghai_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\shanghai_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\shutterstock_2321672.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\shutterstock_2321672.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\shutterstock_2321672.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\shutterstock_2321672_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\shutterstock_2321672_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\shutterstock_2321672_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\shutterstock_2321672_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\shutterstock_2321672_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\shutterstock_2321672_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\sofia.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\sofia.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\sofia.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\sofia_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\sofia_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\sofia_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\sofia_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\sofia_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\sofia_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\soldier_number_2.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\soldier_number_2.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\soldier_number_2.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\soldier_number_2_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\soldier_number_2_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\soldier_number_2_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\soldier_number_2_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\soldier_number_2_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\soldier_number_2_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\soldier_number_3.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\soldier_number_3.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\soldier_number_3.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\soldier_number_3_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\soldier_number_3_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\soldier_number_3_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\soldier_number_3_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\soldier_number_3_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\soldier_number_3_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\soldierno1-tb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\soldierno1-tb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\soldierno1-tb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\soldierno1-tb_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\soldierno1-tb_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\soldierno1-tb_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\soldierno1-tb_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\soldierno1-tb_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\soldierno1-tb_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\storm_over_the_great_glen.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\storm_over_the_great_glen.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\storm_over_the_great_glen.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\storm_over_the_great_glen_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\storm_over_the_great_glen_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\storm_over_the_great_glen_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\storm_over_the_great_glen_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\storm_over_the_great_glen_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\storm_over_the_great_glen_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\summer_winds.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\summer_winds.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\summer_winds.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\summer_winds_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\summer_winds_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\summer_winds_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\summer_winds_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\summer_winds_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\summer_winds_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\tahiti_2.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\tahiti_2.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\tahiti_2.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\tahiti_2_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\tahiti_2_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\tahiti_2_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\tahiti_2_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\tahiti_2_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\tahiti_2_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\taj_mahal.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\taj_mahal.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\taj_mahal.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\taj_mahal_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\taj_mahal_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\taj_mahal_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\taj_mahal_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\taj_mahal_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\taj_mahal_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\terracotta_warriors.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\terracotta_warriors.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\terracotta_warriors.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\terracotta_warriors_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\terracotta_warriors_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\terracotta_warriors_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\terracotta_warriors_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\terracotta_warriors_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\terracotta_warriors_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\the_church_on_the_hill.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\the_church_on_the_hill.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\the_church_on_the_hill.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\the_church_on_the_hill_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\the_church_on_the_hill_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\the_church_on_the_hill_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\the_church_on_the_hill_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\the_church_on_the_hill_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\the_church_on_the_hill_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\the_girl_with_the_red_hat.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\the_girl_with_the_red_hat.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\the_girl_with_the_red_hat.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\the_girl_with_the_red_hat_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\the_girl_with_the_red_hat_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\the_girl_with_the_red_hat_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\the_girl_with_the_red_hat_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\the_girl_with_the_red_hat_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\the_girl_with_the_red_hat_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\tiger.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\tiger.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\tiger.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\tiger_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\tiger_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\tiger_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\tiger_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\tiger_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\tiger_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\tokyo.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\tokyo.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\tokyo.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\tokyo_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\tokyo_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\tokyo_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\tokyo_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\tokyo_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\tokyo_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\zoe.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\zoe.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\zoe.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\zoe_sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\zoe_sml.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\zoe_sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\artwork\\zoe_thumb.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\artwork\\zoe_thumb.jpg",
       "PackagePath": "staticwebassets\\img\\artwork\\zoe_thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\border.png",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\border.png",
       "PackagePath": "staticwebassets\\img\\border.png"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\btn-AddArtwork.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\btn-AddArtwork.jpg",
       "PackagePath": "staticwebassets\\img\\btn-AddArtwork.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\btn-artwork.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\btn-artwork.jpg",
       "PackagePath": "staticwebassets\\img\\btn-artwork.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\btn-backtogallery.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\btn-backtogallery.jpg",
       "PackagePath": "staticwebassets\\img\\btn-backtogallery.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\btn-cancel.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\btn-cancel.jpg",
       "PackagePath": "staticwebassets\\img\\btn-cancel.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\btn-clickhere.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\btn-clickhere.jpg",
       "PackagePath": "staticwebassets\\img\\btn-clickhere.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\btn-delete-sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\btn-delete-sml.jpg",
       "PackagePath": "staticwebassets\\img\\btn-delete-sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\btn-detail-sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\btn-detail-sml.jpg",
       "PackagePath": "staticwebassets\\img\\btn-detail-sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\btn-detail.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\btn-detail.jpg",
       "PackagePath": "staticwebassets\\img\\btn-detail.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\btn-edit-sml.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\btn-edit-sml.jpg",
       "PackagePath": "staticwebassets\\img\\btn-edit-sml.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\btn-enquiry.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\btn-enquiry.jpg",
       "PackagePath": "staticwebassets\\img\\btn-enquiry.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\btn-general.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\btn-general.jpg",
       "PackagePath": "staticwebassets\\img\\btn-general.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\btn-insert.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\btn-insert.jpg",
       "PackagePath": "staticwebassets\\img\\btn-insert.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\btn-more.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\btn-more.jpg",
       "PackagePath": "staticwebassets\\img\\btn-more.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\btn-send.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\btn-send.jpg",
       "PackagePath": "staticwebassets\\img\\btn-send.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\btn-show-all.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\btn-show-all.jpg",
       "PackagePath": "staticwebassets\\img\\btn-show-all.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\btn-show.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\btn-show.jpg",
       "PackagePath": "staticwebassets\\img\\btn-show.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\btn-showhp.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\btn-showhp.jpg",
       "PackagePath": "staticwebassets\\img\\btn-showhp.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\btn-submit-alt.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\btn-submit-alt.jpg",
       "PackagePath": "staticwebassets\\img\\btn-submit-alt.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\btn-submit.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\btn-submit.jpg",
       "PackagePath": "staticwebassets\\img\\btn-submit.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\btn-update.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\btn-update.jpg",
       "PackagePath": "staticwebassets\\img\\btn-update.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\controls.png",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\controls.png",
       "PackagePath": "staticwebassets\\img\\controls.png"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\din-tb.swf",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\din-tb.swf",
       "PackagePath": "staticwebassets\\img\\din-tb.swf"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\favicon.ico",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\favicon.ico",
       "PackagePath": "staticwebassets\\img\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\ie6\\borderBottomCenter.png",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\ie6\\borderBottomCenter.png",
       "PackagePath": "staticwebassets\\img\\ie6\\borderBottomCenter.png"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\ie6\\borderBottomLeft.png",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\ie6\\borderBottomLeft.png",
       "PackagePath": "staticwebassets\\img\\ie6\\borderBottomLeft.png"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\ie6\\borderBottomRight.png",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\ie6\\borderBottomRight.png",
       "PackagePath": "staticwebassets\\img\\ie6\\borderBottomRight.png"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\ie6\\borderMiddleLeft.png",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\ie6\\borderMiddleLeft.png",
       "PackagePath": "staticwebassets\\img\\ie6\\borderMiddleLeft.png"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\ie6\\borderMiddleRight.png",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\ie6\\borderMiddleRight.png",
       "PackagePath": "staticwebassets\\img\\ie6\\borderMiddleRight.png"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\ie6\\borderTopCenter.png",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\ie6\\borderTopCenter.png",
       "PackagePath": "staticwebassets\\img\\ie6\\borderTopCenter.png"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\ie6\\borderTopLeft.png",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\ie6\\borderTopLeft.png",
       "PackagePath": "staticwebassets\\img\\ie6\\borderTopLeft.png"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\ie6\\borderTopRight.png",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\ie6\\borderTopRight.png",
       "PackagePath": "staticwebassets\\img\\ie6\\borderTopRight.png"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\loading.gif",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\loading.gif",
       "PackagePath": "staticwebassets\\img\\loading.gif"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\loading_background.png",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\loading_background.png",
       "PackagePath": "staticwebassets\\img\\loading_background.png"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\overlay.png",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\overlay.png",
       "PackagePath": "staticwebassets\\img\\overlay.png"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\trevo-bollen.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\trevo-bollen.jpg",
       "PackagePath": "staticwebassets\\img\\trevo-bollen.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\trevorbollen-cms-logo.png",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\trevorbollen-cms-logo.png",
       "PackagePath": "staticwebassets\\img\\trevorbollen-cms-logo.png"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\trevorbollen-logo.jpg",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\trevorbollen-logo.jpg",
       "PackagePath": "staticwebassets\\img\\trevorbollen-logo.jpg"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\img\\trevorbollen-logo.png",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\img\\trevorbollen-logo.png",
       "PackagePath": "staticwebassets\\img\\trevorbollen-logo.png"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\index.html",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\js\\autoscaling-menu.pack.1.0.js",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\js\\autoscaling-menu.pack.1.0.js",
       "PackagePath": "staticwebassets\\js\\autoscaling-menu.pack.1.0.js"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\js\\gallery.js",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\js\\gallery.js",
       "PackagePath": "staticwebassets\\js\\gallery.js"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\js\\ie-hover-pack.js",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\js\\ie-hover-pack.js",
       "PackagePath": "staticwebassets\\js\\ie-hover-pack.js"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\js\\jquery-1.4.2.min.js",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\js\\jquery-1.4.2.min.js",
       "PackagePath": "staticwebassets\\js\\jquery-1.4.2.min.js"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\js\\jquery.colorbox-min.js",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\js\\jquery.colorbox-min.js",
       "PackagePath": "staticwebassets\\js\\jquery.colorbox-min.js"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\js\\jquery.colorbox.js",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\js\\jquery.colorbox.js",
       "PackagePath": "staticwebassets\\js\\jquery.colorbox.js"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\js\\main.js",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\js\\main.js",
       "PackagePath": "staticwebassets\\js\\main.js"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\js\\sifr-addons.js",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\js\\sifr-addons.js",
       "PackagePath": "staticwebassets\\js\\sifr-addons.js"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\js\\sifr-config.js",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\js\\sifr-config.js",
       "PackagePath": "staticwebassets\\js\\sifr-config.js"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\js\\sifr-debug.js",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\js\\sifr-debug.js",
       "PackagePath": "staticwebassets\\js\\sifr-debug.js"
     },
     {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\js\\sifr.js",
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\js\\sifr.js",
       "PackagePath": "staticwebassets\\js\\sifr.js"
-    },
-    {
-      "Id": "C:\\Users\\steph\\source\\repos\\tbaBlazor\\wwwroot\\sample-data\\weather.json",
-      "PackagePath": "staticwebassets\\sample-data\\weather.json"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.tbaBlazor.props",

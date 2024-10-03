@@ -13,67 +13,63 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = tbaBlazor
 build_property.RootNamespace = tbaBlazor
-build_property.ProjectDir = C:\Users\steph\source\repos\tbaBlazor\
+build_property.ProjectDir = C:\Users\steph\Documents\GitHub\trevorbollenStatic\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = false
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\steph\source\repos\tbaBlazor
+build_property.MSBuildProjectDirectory = C:\Users\steph\Documents\GitHub\trevorbollenStatic
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/steph/source/repos/tbaBlazor/App.razor]
+[C:/Users/steph/Documents/GitHub/trevorbollenStatic/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/steph/source/repos/tbaBlazor/Pages/About.razor]
+[C:/Users/steph/Documents/GitHub/trevorbollenStatic/Pages/About.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/steph/source/repos/tbaBlazor/Pages/Contact.razor]
+[C:/Users/steph/Documents/GitHub/trevorbollenStatic/Pages/Contact.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/steph/source/repos/tbaBlazor/Pages/Counter.razor]
+[C:/Users/steph/Documents/GitHub/trevorbollenStatic/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/steph/source/repos/tbaBlazor/Pages/Exhibitions.razor]
+[C:/Users/steph/Documents/GitHub/trevorbollenStatic/Pages/Exhibitions.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXhoaWJpdGlvbnMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/steph/source/repos/tbaBlazor/Pages/Home.razor]
+[C:/Users/steph/Documents/GitHub/trevorbollenStatic/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/steph/source/repos/tbaBlazor/Pages/Portfolio.razor]
+[C:/Users/steph/Documents/GitHub/trevorbollenStatic/Pages/Portfolio.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUG9ydGZvbGlvLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/steph/source/repos/tbaBlazor/Pages/Terms.razor]
+[C:/Users/steph/Documents/GitHub/trevorbollenStatic/Pages/Terms.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVybXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/steph/source/repos/tbaBlazor/Pages/Weather.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2VhdGhlci5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/steph/source/repos/tbaBlazor/_Imports.razor]
+[C:/Users/steph/Documents/GitHub/trevorbollenStatic/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/steph/source/repos/tbaBlazor/Layout/MainLayout.razor]
+[C:/Users/steph/Documents/GitHub/trevorbollenStatic/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-lnbzymb7ut
 
-[C:/Users/steph/source/repos/tbaBlazor/Layout/NavMenu.razor]
+[C:/Users/steph/Documents/GitHub/trevorbollenStatic/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-fe2oi5n7wf
 
-[C:/Users/steph/source/repos/tbaBlazor/Layout/TbaNavMenuFooter.razor]
+[C:/Users/steph/Documents/GitHub/trevorbollenStatic/Layout/TbaNavMenuFooter.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XFRiYU5hdk1lbnVGb290ZXIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-kjxvtlpd5z
 
-[C:/Users/steph/source/repos/tbaBlazor/Layout/TbaNavMenuTop.razor]
+[C:/Users/steph/Documents/GitHub/trevorbollenStatic/Layout/TbaNavMenuTop.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XFRiYU5hdk1lbnVUb3AucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-ewsxpkvedh

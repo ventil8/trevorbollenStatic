@@ -10,9 +10,11 @@
     <link rel="icon" type="img/png" href="favicon.png" />
     <link href="tbaBlazor.styles.css" rel="stylesheet" />
     <link href="css/tbaV1.css" rel="stylesheet" rev="1" title="Trevor Bollen Stylesheet" type="text/css" />
-    <link media="screen" rel="stylesheet" href="css/colorbox.css" type="text/css" />
     <link id="Link1" rel="shortcut icon" href="img/favicon.ico">
     <link id="Link2" rel="icon" type="img/gif" href="img/animated_favicon1.gif">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css" rel="stylesheet" />
+    <link href="_content/Blazor.Bootstrap/blazor.bootstrap.css" rel="stylesheet" />
     <meta runat="server" id="MetaDescription" name="Description" content="Trevor Bollen is a Glasgow based artist, a member of the Glasgow Southern Art Club, The Bearsden Art Club and The Martes Group of Painters. His work is exhibited in Glasgow art galleries" />
     <meta runat="server" id="MetaKeywords" name="Keywords" content="Trevor Bollen artist, Trevor Bollen art, Trevor Bollen, Trevor Bollen paintings, Trevor Bollen portfolio, Trevor Bollen exhibitions" />
     <meta name="classification" content="Artist" />
@@ -23,79 +25,7 @@
     <meta name="rating" content="General" />
     <meta name="language" content="English" />
     <meta name="google-site-verification" content="P_BnZkXCD9OtJj3_Fq8YLFq-Vjao2HK4ojnqhGWgt5o" />
-    <script type="text/javascript" src="js/jquery-1.4.2.min.js"></script>
-    <script src="js/sifr.js" type="text/javascript"></script>
-    <script src="js/sifr-config.js" type="text/javascript"></script>
-    <script src="js/sifr-addons.js" type="text/javascript"></script>
     <script type="text/javascript" src="js/main.js"></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
-    <script type="text/javascript" src="js/jquery.colorbox.js"></script>
-    <script>
-        $(document).ready(function () {
-            //Examples of how to assign the ColorBox event to elements
-            $("a[rel='example1']").colorbox();
-            $("a[rel='example2']").colorbox({ transition: "fade" });
-            $("a[rel='example3']").colorbox({ transition: "none", width: "75%", height: "75%" });
-            $("a[rel='example3b']").colorbox({ transition: "fade", width: "750px", height: "650px" });
-            $("a[rel='example4']").colorbox({ slideshow: true });
-            $(".example5").colorbox();
-            $(".example6").colorbox({ iframe: true, innerWidth: 425, innerHeight: 344 });
-            $(".example7").colorbox({ width: "80%", height: "80%", iframe: true });
-            $(".example8").colorbox({ width: "50%", inline: true, href: "#add_individual" });
-            $(".example8b").colorbox({ width: "50%", inline: true, href: "#add_witness" });
-            $(".example9").colorbox({
-                onOpen: function () { alert('onOpen: colorbox is about to open'); },
-                onLoad: function () { alert('onLoad: colorbox has started to load the targeted content'); },
-                onComplete: function () { alert('onComplete: colorbox has displayed the loaded content'); },
-                onCleanup: function () { alert('onCleanup: colorbox has begun the close process'); },
-                onClosed: function () { alert('onClosed: colorbox has completely closed'); }
-            });
-
-            //Example of preserving a JavaScript event for inline calls.
-            $("#click").click(function () {
-                $('#click').css({ "background-color": "#f00", "color": "#fff", "cursor": "inherit" }).text("Open this window again and this message will still be here.");
-                return false;
-            });
-        });
-        //Disable right mouse click Script
-        //By Maximus (maximus@nsimail.com) w/ mods by DynamicDrive
-        //For full source code, visit http://www.dynamicdrive.com
-
-        //var message = "Sorry no right clicks allowed on this section.";
-
-        /////////////////////////////////////
-        //function clickIE4() {
-        //    if (event.button == 2) {
-        //        alert(message);
-        //        return false;
-        //    }
-        //}
-
-        //function clickNS4(e) {
-        //    if (document.layers || document.getElementById && !document.all) {
-        //        if (e.which == 2 || e.which == 3) {
-        //            alert(message);
-        //            return false;
-        //        }
-        //    }
-        //}
-
-        //if (document.layers) {
-        //    document.captureEvents(Event.MOUSEDOWN);
-        //    document.onmousedown = clickNS4;
-        //}
-        //else if (document.all && !document.getElementById) {
-        //    document.onmousedown = clickIE4;
-        //}
-
-        //document.oncontextmenu = new Function("alert(message);return false")
-    </script>
-    <!--[if lt IE 7]>
-        <link rel="stylesheet" type="text/css" href="../css/lt7.css" />
-        <script type="text/javascript" src="../js/ie-hover-pack.js"></script>
-    <![endif]-->
-    <asp:ContentPlaceHolder id="head" runat="server">
-    </asp:ContentPlaceHolder>
     <script type="text/javascript">
 
         var _gaq = _gaq || [];
@@ -126,6 +56,14 @@
         <a class="dismiss">🗙</a>
     </div>
     <script src="_framework/blazor.webassembly.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+    <!-- Add chart.js reference if chart components are used in your application. -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.0.1/chart.umd.js" integrity="sha512-gQhCDsnnnUfaRzD8k1L5llCCV6O9HN09zClIzzeJ8OJ9MpGmIlCxm+pdCkqTwqJ4JcjbojFr79rl2F1mzcoLMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <!-- Add chartjs-plugin-datalabels.min.js reference if chart components with data label feature is used in your application. -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/chartjs-plugin-datalabels/2.2.0/chartjs-plugin-datalabels.min.js" integrity="sha512-JPcRR8yFa8mmCsfrw4TNte1ZvF1e3+1SdGMslZvmrzDYxS69J7J49vkFL8u6u8PlPJK+H3voElBtUCzaXj+6ig==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <!-- Add sortable.js reference if SortableList component is used in your application. -->
+    <script src="https://cdn.jsdelivr.net/npm/sortablejs@latest/Sortable.min.js"></script>
+    <script src="_content/Blazor.Bootstrap/blazor.bootstrap.js"></script>
 </body>
 
 </html>
