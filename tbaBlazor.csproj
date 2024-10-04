@@ -28,4 +28,14 @@
     <None Include="Pages\PrivacyPolicy.razor" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Content Update="Pages\PortfolioDetail.razor">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+    </Content>
+    <Content Update="wwwroot\data\hpartwork.json">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+  </ItemGroup>
+
 </Project>

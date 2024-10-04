@@ -1,0 +1,78 @@
+﻿@page "/portfoliodetail/{Id:int}"
+@inject HttpClient Http
+@using System.Linq;
+
+@if (Id != 0)
+{
+<a href="portfolio"><img class="hypRight" src="img/btn-backtogallery.jpg" AlternateText="Back to Gallery" ToolTip="Back to Gallery" /></a>
+    <h3>Portfolio / Detail / @Name</h3>
+
+<p>The majority of paintings shown have been professionally framed and the cost of framing is included in the selling prices listed.</p>
+<br class="clearfloat" />
+<div id="artworkdetail-wrapper">
+    <div class="artDetail" runat="server" id="divArtDetail">
+            <h2>@Name</h2>
+            <p>Desc @Desc</p>
+        <p><b>Medium:</b></p>
+        <p><b>Size:</b></p>
+        <p><b>Price: </b> </p>
+        <p><b>Sold:</b></p>
+
+        <img src="img/btn-enquiry.jpg" ImageAlign="Right" />
+    </div>
+
+</div>
+<img src="img/artwork/@artworkFilename" class="imagewrapper" />
+<br class="clearfloat" />
+
+}
+else
+
+{}
+
+
+
+
+
+@code {
+
+    [Parameter]
+    public int Id { get; set; }
+
+    private ArtWorkDetail[]? artWorkDetail;
+
+    private string? Name, Desc, artworkFilename;
+
+    protected override async Task OnInitializedAsync()
+    {
+        if (Id != 0)
+        {
+            artWorkDetail = await Http.GetFromJsonAsync<ArtWorkDetail[]>("data/artwork.json");
+            if (artWorkDetail is not null)
+            {
+                var result = artWorkDetail.Where(x => x.artworkID == Id).SingleOrDefault();
+                //Populate the data
+                Name = result.artworkName;
+                Desc = result.description;
+                artworkFilename = result.artworkFilename;
+            }
+
+
+        }
+    }
+    public class ArtWorkDetail
+    {
+        public int artworkID { get; set; }
+        public string? artworkName { get; set; }
+        public string? artworkFilename { get; set; }
+        public string? description { get; set; }
+        public string? artworkMediumID { get; set; }
+        public string? price { get; set; }
+        public string? width { get; set; }
+        public string? height { get; set; }
+    }
+
+    
+
+
+}

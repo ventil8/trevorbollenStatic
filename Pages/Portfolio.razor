@@ -1,11 +1,6 @@
 ﻿@page "/portfolio"
-@page "/portfolio/{ArtworkId}"
 @inject HttpClient Http
 
-
-@if (string.IsNullOrEmpty(ArtworkId))
-
-{
     <h1>Portfolio</h1>
     <p>
         To view more details of artwork click the &quot;View Detail&quot; button or alternatively
@@ -20,7 +15,7 @@
     else
     {
 
-        @foreach (var artWork in artWorks)
+    @foreach (var artWork in artWorks)
         {
             
             <div class="art-wrapper">
@@ -34,62 +29,35 @@
                     <p><b>Medium:</b> @artWork.artworkMediumID </p>
                     <p><b>Size:</b> @artWork.width x @artWork.height (cm) </p>
                     <p><b>Price:</b> £@artWork.price</p>
-                    <p><a href="portfolio/@artWork.artworkID"><img src="img/btn-detail-sml.jpg" Class="btnViewDetail" AlternateText="Click here to view artwork details" ToolTip="Click here to view artwork details" /></a></p>
+                <p><a href="portfoliodetail/@artWork.artworkID"><img src="img/btn-detail-sml.jpg" Class="btnViewDetail" AlternateText="Click here to view artwork details" ToolTip="Click here to view artwork details" /></a></p>
                 </div>
             </div>
-
 
 
         }
 
     }
 
-}
-else
-{
-    <a href="portfolio"><img class="hypRight" src="img/btn-backtogallery.jpg" AlternateText="Back to Gallery" ToolTip="Back to Gallery" /></a>
-    <h3>Portfolio / Detail / ImageName</h3>
-
-    <p>The majority of paintings shown have been professionally framed and the cost of framing is included in the selling prices listed.</p>
-    <br class="clearfloat" />
-    <div id="artworkdetail-wrapper">
-        <div class="artDetail" runat="server" id="divArtDetail">
-            <h2>Title</h2>
-
-            <p>Desc</p>
-            <p><b>Medium:</b></p>
-            <p><b>Size:</b></p>
-            <p><b>Price: </b> </p>
-            <p><b>Sold:</b></p>
-
-            <img src="img/btn-enquiry.jpg" ImageAlign="Right" />
-        </div>
-
-    </div>
-    <img src="img/artwork/02112013190711_img_1459.jpg" class="imagewrapper" />
-    <br class="clearfloat" />
-}
-
-
-
 @code {
     private artWork[]? artWorks;
 
+    
     protected override async Task OnInitializedAsync()
     {
         artWorks = await Http.GetFromJsonAsync<artWork[]>("data/artwork.json");
     }
-
+      
+    
     public class artWork
     {
-     public int artworkID { get; set; }
-     public string? artworkName { get; set; }
-     public string? artworkFilename { get; set; }
-     public string? description { get; set; }
-     public string? artworkMediumID { get; set; }
-     public string? price { get; set; }
-     public string? width { get; set; }
-     public string? height { get; set; }
+        public int artworkID { get; set; }
+        public string? artworkName { get; set; }
+        public string? artworkFilename { get; set; }
+        public string? description { get; set; }
+        public string? artworkMediumID { get; set; }
+        public string? price { get; set; }
+        public string? width { get; set; }
+        public string? height { get; set; }
     }
 
     [Parameter]

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tbaBlazor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03ba5c09eac32f7d014aeda8297c5193490cc2fc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e6c59bc9512a9f6aa4a8deccc7217a2cc908345")]
 [assembly: System.Reflection.AssemblyProductAttribute("tbaBlazor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tbaBlazor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

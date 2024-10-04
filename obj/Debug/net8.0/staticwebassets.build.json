@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "krHBIm19CzMlNdTuqXENDgPkfj4fEqUcAerHITFUn+M=",
+  "Hash": "XZ1zpZ9KBPMxZul8rILNbJhHX5+Ie8QIfjH6qV+n3bI=",
   "Source": "tbaBlazor",
   "BasePath": "/",
   "Mode": "Root",
@@ -8147,6 +8147,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\data\\artwork.json"
+    },
+    {
+      "Identity": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\data\\hpartwork.json",
+      "SourceId": "tbaBlazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "data/hpartwork.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\data\\hpartwork.json"
     },
     {
       "Identity": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\favicon.png",

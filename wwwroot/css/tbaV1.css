@@ -306,27 +306,39 @@ a:hover
     -moz-border-radius: 5px;
     border-radius: 5px;
 }
-#featured-image-wrapper
-{
+#featured-image-wrapper {
     text-align: center;
+    height: 600px;
+   
 }
 
-#featured-image-wrapper img
-{
-    padding: 5px;
-    -moz-border-radius: 5px;
-    border-radius: 5px;
-    background-color: #FFFFFF;
-    margin-top: 5px;
-    margin-bottom: 5px;
-    text-align: center;
+    #featured-image-wrapper img {
+        padding: 5px;
+        -moz-border-radius: 5px;
+        border-radius: 5px;
+        background-color: #FFFFFF;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        text-align: center;
+        float: left;
+    }
+
+    #featured-image-wrapper .hp-art-wrapper {
+        float: left;
+        padding-bottom: 220px;
+    }
+
+#featured-image-wrapper .hp-desc-wrapper {
+    color:aquamarine;
+    background-color:#000000;
+    float:right;
+  
 }
 
-#content-wrapper .lhs-col
-{
-    width: 330px;
-    float: left;
-}
+    #content-wrapper .lhs-col {
+        width: 330px;
+        float: left;
+    }
 
 #content-wrapper .lhs-col .panel
 {
@@ -339,10 +351,12 @@ a:hover
 .lhs-col h2
 {
     margin: 0px 0px 20px 0px;
-    padding: 15px;
+    padding: 10px;
     background-color: #333333;
     text-align: right;
     color: #FFFFFF;
+    font-size:1.6em;
+    font-weight:800
 }
    
 
@@ -907,16 +921,17 @@ media type, in order not to have the printed text come out weird.
 .art-wrapper
 {
     padding: 5px;
-    margin: 20px 13.5px 15px 0px;
+    margin: 10px 5px 5px 5px;
     background-color: #CCCCCC;
     border: 2px solid #999999;
-    width: 220px;
+    width: 235px;
     height: 330px;
     float: left;
 }
 
-.art-wrapper a:hover
-{
+
+
+.art-wrapper a:hover {
     background-color: #FFFFFF;
 }
 
@@ -924,7 +939,7 @@ media type, in order not to have the printed text come out weird.
 {
     margin-right: auto;
     margin-left: auto;
-    width: 220px;
+    width: 210px;
     text-align: center;
     height: 158px;
     overflow: hidden;

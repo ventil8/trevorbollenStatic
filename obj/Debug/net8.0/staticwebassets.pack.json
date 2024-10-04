@@ -45,6 +45,10 @@
       "PackagePath": "staticwebassets\\data\\artwork.json"
     },
     {
+      "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\data\\hpartwork.json",
+      "PackagePath": "staticwebassets\\data\\hpartwork.json"
+    },
+    {
       "Id": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
