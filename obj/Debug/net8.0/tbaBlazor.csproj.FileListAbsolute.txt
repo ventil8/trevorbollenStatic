@@ -1031,13 +1031,8 @@ C:\Users\steph\source\repos\tbaBlazor\obj\Debug\net8.0\tbaBlazor.dll
 C:\Users\steph\source\repos\tbaBlazor\obj\Debug\net8.0\refint\tbaBlazor.dll
 C:\Users\steph\source\repos\tbaBlazor\obj\Debug\net8.0\tbaBlazor.pdb
 C:\Users\steph\source\repos\tbaBlazor\obj\Debug\net8.0\ref\tbaBlazor.dll
-C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\tbaBlazor.csproj.AssemblyReference.cache
-C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\tbaBlazor.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\tbaBlazor.AssemblyInfoInputs.cache
-C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\tbaBlazor.AssemblyInfo.cs
-C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\tbaBlazor.csproj.CoreCompileInputs.cache
-C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\tbaBlazor.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\tbaBlazor.sourcelink.json
+C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\wwwroot\_framework\Azure.Communication.Email.wasm
+C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\wwwroot\_framework\Azure.Core.wasm
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\wwwroot\_framework\blazor.boot.json
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\wwwroot\_framework\blazor.webassembly.js
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\wwwroot\_framework\BlazorBootstrap.wasm
@@ -1056,6 +1051,7 @@ C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\wwwroot\_fra
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.wasm
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.wasm
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.wasm
+C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Bcl.AsyncInterfaces.wasm
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\wwwroot\_framework\Microsoft.CSharp.wasm
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.wasm
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.wasm
@@ -1136,6 +1132,7 @@ C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\wwwroot\_fra
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\wwwroot\_framework\System.Linq.Parallel.wasm
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\wwwroot\_framework\System.Linq.Queryable.wasm
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\wwwroot\_framework\System.Linq.wasm
+C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\wwwroot\_framework\System.Memory.Data.wasm
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\wwwroot\_framework\System.Memory.wasm
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\wwwroot\_framework\System.Net.Http.Json.wasm
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\wwwroot\_framework\System.Net.Http.wasm
@@ -1254,6 +1251,7 @@ C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\wwwroot\_fra
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\wwwroot\_framework\System.Text.Encodings.Web.wasm.gz
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\wwwroot\_framework\icudt_CJK.dat.gz
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\wwwroot\_framework\dotnet.native.wasm.gz
+C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Bcl.AsyncInterfaces.wasm.gz
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.wasm.gz
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\wwwroot\_framework\System.Core.wasm.gz
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\wwwroot\_framework\System.Security.Principal.Windows.wasm.gz
@@ -1284,6 +1282,7 @@ C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\wwwroot\_fra
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Options.wasm.gz
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.wasm.gz
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\wwwroot\_framework\System.Security.SecureString.wasm.gz
+C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\wwwroot\_framework\Azure.Communication.Email.wasm.gz
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.wasm.gz
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\wwwroot\_framework\System.IO.wasm.gz
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Numerics.wasm.gz
@@ -1364,6 +1363,7 @@ C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\wwwroot\_fra
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Handles.wasm.gz
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\wwwroot\_framework\System.IO.FileSystem.Watcher.wasm.gz
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\wwwroot\_framework\dotnet.runtime.js.map.gz
+C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\wwwroot\_framework\Azure.Core.wasm.gz
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\wwwroot\_framework\Microsoft.VisualBasic.Core.wasm.gz
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\wwwroot\_framework\icudt_no_CJK.dat.gz
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.Metadata.wasm.gz
@@ -1399,6 +1399,7 @@ C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\wwwroot\_fra
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\wwwroot\_framework\System.IO.MemoryMappedFiles.wasm.gz
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\wwwroot\_framework\System.ServiceModel.Web.wasm.gz
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.wasm.gz
+C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\wwwroot\_framework\System.Memory.Data.wasm.gz
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.wasm.gz
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\wwwroot\_framework\System.AppContext.wasm.gz
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\wwwroot\_framework\System.Transactions.wasm.gz
@@ -1451,6 +1452,8 @@ C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\wwwroot\_fra
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\tbaBlazor.staticwebassets.runtime.json
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\tbaBlazor.dll
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\tbaBlazor.pdb
+C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\Azure.Communication.Email.dll
+C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\Azure.Core.dll
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\BlazorBootstrap.dll
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
@@ -1458,6 +1461,7 @@ C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\Microsoft.As
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\Microsoft.AspNetCore.Components.WebAssembly.dll
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
@@ -1475,6 +1479,7 @@ C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\Microsoft.Ex
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\Microsoft.JSInterop.dll
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\Microsoft.JSInterop.WebAssembly.dll
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\System.Memory.Data.dll
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\Microsoft.CSharp.dll
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\Microsoft.VisualBasic.Core.dll
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\Microsoft.VisualBasic.dll
@@ -1652,6 +1657,15 @@ C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\dotnet.runti
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\icudt_CJK.dat
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\icudt_EFIGS.dat
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\icudt_no_CJK.dat
+C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\tbaBlazor.csproj.AssemblyReference.cache
+C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\tbaBlazor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\tbaBlazor.AssemblyInfoInputs.cache
+C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\tbaBlazor.AssemblyInfo.cs
+C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\tbaBlazor.csproj.CoreCompileInputs.cache
+C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\tbaBlazor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\tbaBlazor.sourcelink.json
+C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\webcil\Azure.Communication.Email.wasm
+C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\webcil\Azure.Core.wasm
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\webcil\BlazorBootstrap.wasm
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Authorization.wasm
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Components.wasm
@@ -1659,6 +1673,7 @@ C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\webcil\Micro
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Components.Web.wasm
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Components.WebAssembly.wasm
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Metadata.wasm
+C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\webcil\Microsoft.Bcl.AsyncInterfaces.wasm
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\webcil\Microsoft.Extensions.Configuration.wasm
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\webcil\Microsoft.Extensions.Configuration.Abstractions.wasm
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\webcil\Microsoft.Extensions.Configuration.Binder.wasm
@@ -1676,6 +1691,7 @@ C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\webcil\Micro
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\webcil\Microsoft.JSInterop.wasm
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\webcil\Microsoft.JSInterop.WebAssembly.wasm
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\webcil\System.IO.Pipelines.wasm
+C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\webcil\System.Memory.Data.wasm
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\webcil\Microsoft.CSharp.wasm
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\webcil\Microsoft.VisualBasic.Core.wasm
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\webcil\Microsoft.VisualBasic.wasm
@@ -1861,6 +1877,8 @@ C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\scopedcss\La
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\scopedcss\bundle\tbaBlazor.styles.css
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\scopedcss\projectbundle\tbaBlazor.bundle.scp.css
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\compressed\avfdkkq1ew.gz
+C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\compressed\8tetw29rec.gz
+C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\compressed\l9pd589u6y.gz
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\compressed\omhvk5hdjk.gz
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\compressed\7nn3vzlisd.gz
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\compressed\j92h080j1l.gz
@@ -1868,6 +1886,7 @@ C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\compressed\7
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\compressed\dgsv8kzfox.gz
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\compressed\efqazn5xt1.gz
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\compressed\jb0lsb8ist.gz
+C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\compressed\2muwun3leh.gz
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\compressed\ebnqlmyp9y.gz
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\compressed\r0a71ewyss.gz
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\compressed\hek68mj74h.gz
@@ -1885,6 +1904,7 @@ C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\compressed\w
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\compressed\emf402xyca.gz
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\compressed\rrffg6gcge.gz
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\compressed\9xp6p0jrhp.gz
+C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\compressed\put8t4crn6.gz
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\compressed\nee43sspdl.gz
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\compressed\lkf5mxsikm.gz
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\compressed\yoss4aspll.gz
@@ -2070,23 +2090,3 @@ C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\tbaBlazor.dl
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\refint\tbaBlazor.dll
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\tbaBlazor.pdb
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\ref\tbaBlazor.dll
-C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\wwwroot\_framework\Azure.Communication.Email.wasm
-C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\wwwroot\_framework\Azure.Core.wasm
-C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Bcl.AsyncInterfaces.wasm
-C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\wwwroot\_framework\System.Memory.Data.wasm
-C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Bcl.AsyncInterfaces.wasm.gz
-C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\wwwroot\_framework\Azure.Communication.Email.wasm.gz
-C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\wwwroot\_framework\Azure.Core.wasm.gz
-C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\wwwroot\_framework\System.Memory.Data.wasm.gz
-C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\Azure.Communication.Email.dll
-C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\Azure.Core.dll
-C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\System.Memory.Data.dll
-C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\webcil\Azure.Communication.Email.wasm
-C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\webcil\Azure.Core.wasm
-C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\webcil\Microsoft.Bcl.AsyncInterfaces.wasm
-C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\webcil\System.Memory.Data.wasm
-C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\compressed\8tetw29rec.gz
-C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\compressed\l9pd589u6y.gz
-C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\compressed\2muwun3leh.gz
-C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\compressed\put8t4crn6.gz
