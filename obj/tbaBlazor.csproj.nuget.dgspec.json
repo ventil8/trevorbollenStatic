@@ -47,6 +47,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Azure.Communication.Email": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
             "Blazor.Bootstrap": {
               "target": "Package",
               "version": "[3.0.0, )"
