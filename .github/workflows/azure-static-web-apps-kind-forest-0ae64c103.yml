@@ -1,7 +1,7 @@
 name: Deploy web app to Azure Static Web Apps
 
 env:
-  APP_LOCATION: "Client" # location of your client code
+  APP_LOCATION: "/" # location of your client code
   OUTPUT_LOCATION: "wwwroot" # location of client code build output
 
 on:
