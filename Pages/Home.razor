@@ -1,4 +1,5 @@
 ﻿@page "/"
+@page "/index"
 @inject HttpClient Http
 
 <PageTitle>Home</PageTitle>
@@ -7,20 +8,24 @@
     <div class="featured">
    
     <h2>Featured Artwork</h2>
-        <div id="featured-image-wrapper">
-            <Carousel Autoplay="CarouselAutoPlay.StartOnPageLoad" ShowPreviousNextControls="true">
-                <CarouselItem Active="true">
-                    <Image Src="img/artwork/10062011225028_100238-rare-depression-era-photos-in-color.jpg" Class="hp-art-wrapper" />
+        <div>
+            <Carousel Autoplay="CarouselAutoPlay.StartOnPageLoad" Crossfade="true" ShowPreviousNextControls="false">
+                <CarouselItem Active="true" Interval="2000">
+                    <div class="featured-image-wrapper"><Image Src="img/artwork/10062011231107_soldierno1-tb.jpg" Class="hp-art-wrapper" /></div>
                     <CarouselCaption>
+                        <a href="portfoliodetail/22"><img src="/img/btn-detail.jpg" class="featuredhypRight" /></a>
                         <div class="hp-desc-wrapper">
-                        <h2>Soldier No 1</h2>
-                        <p>One of a series of paintings of soldiers.  Soldier Number 1 may be seen and purchased at the Accord Hospice, Paisley.  Trevor will donate 40% of the sale price of this painting to the Hospice.</p>
-                        <p><b>Medium:</b> Acrylic </p>
-                        <p><b>Size:</b> 14 x 18 (cm) </p>
-                        <p><b>Price:</b> £50</p>
+                            <h2>Soldier No 1</h2>
+                            <p>One of a series of paintings of soldiers.  Soldier Number 1…</p>
+                            <b>Medium:</b> Acrylic <br/>
+                            <b>Size:</b> 14 x 18 (WxH CM) <br />
+                            <b>Price:</b> £50
                         </div>
                     </CarouselCaption>
+                   
+                    
                 </CarouselItem>
+                
             @if (hpartWorks == null)
             {
                 <p><em>Loading...</em></p>
@@ -33,16 +38,31 @@
 
 
                         <CarouselItem>
-                            <Image Src="img/artwork/10062011225028_100238-rare-depression-era-photos-in-color.jpg" Class="hp-art-wrapper" />
+                            <div class="featured-image-wrapper"><img src="/img/artwork/@hpArtWork.artworkFilename" class="hp-art-wrapper" /></div>
                             <CarouselCaption>
+                                <a href="portfoliodetail/@hpArtWork.artworkID"><img src="/img/btn-detail.jpg" class="featuredhypRight" /></a>
                                 <div class="hp-desc-wrapper">
+
                                     <h2>@hpArtWork.artworkName</h2>
-                                    <p>@hpArtWork.description</p>
-                                    <p><b>Medium:</b> @hpArtWork.artworkMediumID </p>
-                                    <p><b>Size:</b> @hpArtWork.width x @hpArtWork.height (cm) </p>
-                                    <p><b>Price:</b> £@hpArtWork.price</p>
+                                    <p>
+                                    @if (hpArtWork.description is not null &  @hpArtWork.description.Length >= 40)
+                                    {
+                                        @hpArtWork.description.Substring(0, 40) <text>... </text>;
+                                    }
+                                    else
+                                    {
+                                        @hpArtWork.description
+                                    }
+                                    </p>
+                                    <b>Medium:</b> @hpArtWork.artworkMediumID<br />
+                                    <b>Size:</b> @hpArtWork.width x @hpArtWork.height (WxH CM) <br />
+                                    <b>Price:</b> £@hpArtWork.price
+                                   
                                 </div>
+                                
                             </CarouselCaption>
+                            
+                            
                         </CarouselItem>
 
                 }
@@ -103,6 +123,7 @@
     protected override async Task OnInitializedAsync()
     {
         hpartWorks = await Http.GetFromJsonAsync<hpArtWork[]>("data/hpartwork.json");
+
     }
 
     public class hpArtWork
@@ -115,6 +136,9 @@
         public string? price { get; set; }
         public string? width { get; set; }
         public string? height { get; set; }
+        
+
     }
 
+    
 }

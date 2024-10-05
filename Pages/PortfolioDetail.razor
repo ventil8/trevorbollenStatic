@@ -5,32 +5,32 @@
 @if (Id != 0)
 {
 <a href="portfolio"><img class="hypRight" src="img/btn-backtogallery.jpg" AlternateText="Back to Gallery" ToolTip="Back to Gallery" /></a>
-    <h3>Portfolio / Detail / @Name</h3>
+    <h3 class="pageTitle">Portfolio / Detail / @Name</h3>
 
 <p>The majority of paintings shown have been professionally framed and the cost of framing is included in the selling prices listed.</p>
-<br class="clearfloat" />
+
 <div id="artworkdetail-wrapper">
     <div class="artDetail" runat="server" id="divArtDetail">
-            <h2>@Name</h2>
-            <p>Desc @Desc</p>
-        <p><b>Medium:</b></p>
-        <p><b>Size:</b></p>
-        <p><b>Price: </b> </p>
-        <p><b>Sold:</b></p>
+        <h2>@Name</h2>
+        <p>@Desc</p>
+        <p><b>Medium:</b> @artworkMediumID</p>
+        <p><b>Size:</b> @size</p>
+        <p><b>Price: </b> £@price</p>
+        <p><b>Sold:</b> @sold</p>
 
-        <img src="img/btn-enquiry.jpg" ImageAlign="Right" />
+        @* <img src="img/btn-enquiry.jpg" ImageAlign="Right"  /> *@
     </div>
 
 </div>
 <img src="img/artwork/@artworkFilename" class="imagewrapper" />
-<br class="clearfloat" />
+    <br class="clearfloat" />
 
 }
 else
 
-{}
-
-
+{
+    <p>Invalid ID.</p>
+}
 
 
 
@@ -41,7 +41,7 @@ else
 
     private ArtWorkDetail[]? artWorkDetail;
 
-    private string? Name, Desc, artworkFilename;
+    private string? Name, Desc, artworkFilename, artworkMediumID, price, size, sold;
 
     protected override async Task OnInitializedAsync()
     {
@@ -51,10 +51,25 @@ else
             if (artWorkDetail is not null)
             {
                 var result = artWorkDetail.Where(x => x.artworkID == Id).SingleOrDefault();
-                //Populate the data
-                Name = result.artworkName;
-                Desc = result.description;
-                artworkFilename = result.artworkFilename;
+                if (result is not null)
+                {
+                    //Populate the data
+                    Name = result.artworkName;
+                    Desc = result.description;
+                    artworkFilename = result.artworkFilename;
+                    artworkMediumID = result.artworkMediumID;
+                    price = result.price;
+                    size = result.width + " x " + result.height + " (WxH CM)";
+                    if (result.soldStatus == "N")
+                    {
+                        sold = "No";    
+                    }
+                    else
+                    {
+                        sold = "Yes";
+                    }
+                }
+
             }
 
 
@@ -70,6 +85,7 @@ else
         public string? price { get; set; }
         public string? width { get; set; }
         public string? height { get; set; }
+        public string? soldStatus { get; set; }
     }
 
     
