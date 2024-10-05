@@ -106,23 +106,26 @@
 
     
    
-  <p>  If you would like to contact Trevor about his art please fill in the form below.
-        Items marked with a * are required.<br />
-    </p>
+  
         <div id="loader"></div>
         <form id="emailForm" onsubmit="sendEmail();return false;">
+            <p>
+                If you would like to contact Trevor about his art please fill in the form below.
+                Items marked with a * are required.<br />
+            </p>
             <br />
-            <label>Name:</label>
-            <input type="text" id="name" placeholder="name" required" />
+            <label>Name: *</label>
+            <input type="text" id="name" placeholder="name" required />
             <br />
-            <label>Email:</label>
-            <input type="email" id="email" placeholder="email" required" />
+            <label>Email: *</label>
+            <input type="email" id="email" placeholder="email" required />
             <br />
-            <label>Message:</label>
-            <textarea placeholder="message" id="message" required"></textarea>
+            <label>Message: *</label>
+            <textarea placeholder="message" id="message" required></textarea>
             <br />
             <button type="submit">Submit</button>
         </form>
+        <div id="formTy" style="display:none"><p>Thank you, your enqiry was sent.</p></div>
    </div>
 
 
