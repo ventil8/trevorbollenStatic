@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Xp8thtdQEyDsmJ2Wg3D5YdsFN2SvUIP71FyW/touK0M=",
+  "Hash": "5IgRoDEvjDnFyvPMWZ0zNjXsrYq9Ckyt6c/g3w1RmVo=",
   "Source": "tbaBlazor",
   "BasePath": "/",
   "Mode": "Root",
@@ -8261,6 +8261,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\footer-bg.gif"
+    },
+    {
+      "Identity": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\css\\formTFBg.jpg",
+      "SourceId": "tbaBlazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/formTFBg.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\formTFBg.jpg"
     },
     {
       "Identity": "C:\\Users\\steph\\Documents\\GitHub\\trevorbollenStatic\\wwwroot\\css\\gray-grad-bg.jpg",

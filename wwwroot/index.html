@@ -16,7 +16,7 @@
     <!--<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css" rel="stylesheet" />
     <link href="_content/Blazor.Bootstrap/blazor.bootstrap.css" rel="stylesheet" />-->
-    <meta name="Description" content="Trevor Bollen is a Glasgow based artist, a member of the Glasgow Southern Art Club, The Bearsden Art Club and The Martes Group of Painters. His work is exhibited in Glasgow art galleries" />
+    <meta name="Description" content="Trevor Bollen is a Glasgow based artist, a member of the Glasgow Southern Art Club, The Bearsden Art Club and The Martes Group of Painters. Visit to see all his work online." />
     <meta name="Keywords" content="Trevor Bollen artist, Trevor Bollen art, Trevor Bollen, Trevor Bollen paintings, Trevor Bollen portfolio, Trevor Bollen exhibitions" />
     <meta name="classification" content="Artist" />
     <meta name="revisit-after" content="5 days" />
@@ -64,15 +64,16 @@
                 if (!response.ok) {
                     throw new Error("Network response was not ok");
                 }
-                setTimeout(location.reload(), 5000);
+                setTimeout(location.reload(), 3000);
+                document.getElementById("emailForm").style.display = "none";
+                document.getElementById("formTy").style.display = "block";
             } catch (error) {
                 console.error("There was an error submitting the form", error);
             }
         }
         function showLoader() {
-            // document.getElementById("loader").style.display = "block";
-            document.getElementById("emailForm").style.display = "none";
-            document.getElementById("formTy").style.display = "block";
+            document.getElementById("loader").style.display = "block";
+            
         }
 
     </script>
