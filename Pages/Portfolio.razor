@@ -2,10 +2,11 @@
 @page "/portfolio/{Id:int}"
 @inject HttpClient Http
 @using System.Linq;
-   
-    
+
+
 @if (Id != 0)
 {
+    <PageTitle>Trevor Bollen Art Portfolio Detail</PageTitle>
     <a href="portfolio"><img class="hypRight" src="img/btn-backtogallery.jpg" AlternateText="Back to Gallery" ToolTip="Back to Gallery" /></a>
     <h3 class="pageTitle">Portfolio / Detail / @Name</h3>
 
@@ -31,6 +32,7 @@
 else
 
 {
+    <PageTitle>Trevor Bollen Art Portfolio</PageTitle>
     <h1>Portfolio</h1>
     <p>
         To view more details of artwork click the &quot;View Detail&quot; button or alternatively
