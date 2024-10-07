@@ -19,6 +19,7 @@
 
   <ItemGroup>
     <_ContentIncludedByDefault Remove="Pages\PrivacyPolicy.razor" />
+    <_ContentIncludedByDefault Remove="staticwebapp.config.json" />
   </ItemGroup>
 
   <ItemGroup>
