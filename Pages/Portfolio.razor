@@ -7,26 +7,38 @@
 @if (Id != 0)
 {
     <PageTitle>Trevor Bollen Art Portfolio Detail</PageTitle>
-    <a href="portfolio"><img class="hypRight" src="img/btn-backtogallery.jpg" AlternateText="Back to Gallery" ToolTip="Back to Gallery" /></a>
-    <h3 class="pageTitle">Portfolio / Detail / @Name</h3>
+    @if (@Name == null)
 
-    <p>The majority of paintings shown have been professionally framed and the cost of framing is included in the selling prices listed.</p>
+    {
+        <a href="portfolio"><img class="hypRight" src="img/btn-backtogallery.jpg" AlternateText="Back to Gallery" ToolTip="Back to Gallery" /></a>
+        <p>No such artwork here.</p>
+        
+    }
+    else
+    {
+        
+        <a href="portfolio"><img class="hypRight" src="img/btn-backtogallery.jpg" AlternateText="Back to Gallery" ToolTip="Back to Gallery" /></a>
+        <h3 class="pageTitle">Portfolio / Detail / @Name</h3>
+        <p>The majority of paintings shown have been professionally framed and the cost of framing is included in the selling prices listed.</p>
 
-    <div id="artworkdetail-wrapper">
-        <div class="artDetail" runat="server" id="divArtDetail">
-            <h2>@Name </h2>
-            <p>@Desc</p>
-            <p><b>Medium:</b> @artworkMediumID</p>
-            <p><b>Size:</b> @size</p>
-            <p><b>Price: </b> £@price</p>
-            <p><b>Sold:</b> @sold</p>
+        <div id="artworkdetail-wrapper">
+            <div class="artDetail" runat="server" id="divArtDetail">
+                <h2>@Name </h2>
+                <p>@Desc</p>
+                <p><b>Medium:</b> @artworkMediumID</p>
+                <p><b>Size:</b> @size</p>
+                <p><b>Price: </b> £@price</p>
+                <p><b>Sold:</b> @sold</p>
 
-            @* <img src="img/btn-enquiry.jpg" ImageAlign="Right"  /> *@
+                @* <img src="img/btn-enquiry.jpg" ImageAlign="Right"  /> *@
+            </div>
+
         </div>
+        <img src="img/artwork/@artworkFilename" class="imagewrapper" />
+        <br class="clearfloat" />
 
-    </div>
-    <img src="img/artwork/@artworkFilename" class="imagewrapper" />
-    <br class="clearfloat" />
+    }
+
 
 }
 else

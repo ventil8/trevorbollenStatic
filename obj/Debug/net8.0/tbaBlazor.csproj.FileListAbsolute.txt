@@ -2090,3 +2090,4 @@ C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\tbaBlazor.dl
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\refint\tbaBlazor.dll
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\tbaBlazor.pdb
 C:\Users\steph\Documents\GitHub\trevorbollenStatic\obj\Debug\net8.0\ref\tbaBlazor.dll
+C:\Users\steph\Documents\GitHub\trevorbollenStatic\bin\Debug\net8.0\staticwebapp.config.json
