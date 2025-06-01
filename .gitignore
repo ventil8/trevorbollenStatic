@@ -5,3 +5,6 @@
 /.vs/tbaBlazor
 *.gz
 /.vs/ProjectEvaluation
+*.wsuo
+*.json
+*.txt
